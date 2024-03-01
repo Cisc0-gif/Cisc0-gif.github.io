@@ -1,12 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Cisc0-gif
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Cisc0-gif/JSONdb-Tools
+  - Cisc0-gif/RGB-Tools
+  - Cisc0-gif/RTE_Editor
+  - Cisc0-gif/KITT
+  - Cisc0-gif/Homebrew-Minecraft-Server
+  - Cisc0-gif/MCBot
+  - Cisc0-gif/PS2-Modders-Toolkit
+  - Cisc0-gif/SysIntegrity
+  - Cisc0-gif/Discord-File-Server
+  - Cisc0-gif/HTTPSecure
+  - Cisc0-gif/WinBatchUtils
