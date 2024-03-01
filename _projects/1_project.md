@@ -23,7 +23,7 @@ A small project we made for our Intermediate Game Programming class at UCI. Trib
     </div>
 </div>
 <div class="caption">
-    Screenshots from the <a href="https://fergo310.itch.io/tribe>Tribe itch page</a>
+    Screenshots from the <a href="https://fergo310.itch.io/tribe">Tribe itch page</a>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

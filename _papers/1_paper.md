@@ -8,4 +8,4 @@ category: work
 related_publications: true
 ---
 
-<object data="https://drive.google.com/file/d/1p2rdhky6q4mAZmJLc-VlSf_Al9V8Mb7O/view?usp=drive_link" width="800" height="500">/object>
+<object data="https://drive.google.com/file/d/1p2rdhky6q4mAZmJLc-VlSf_Al9V8Mb7O/view?usp=drive_link" width="800" height="500"></object>
