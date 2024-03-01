@@ -7,6 +7,7 @@ nav: true
 nav_order: 4
 ---
 
+{::comment}
 ## GitHub users
 
 {% if site.data.repositories.github_users %}
@@ -34,6 +35,8 @@ nav_order: 4
 {% endfor %}
 {% endif %}
 {% endif %}
+
+{:/comment}
 
 ## GitHub Repositories
 
