@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Code projects I've worked on in the past.
+description: Small-scale projects, code samples, and scripts
 nav: true
 nav_order: 4
 ---
