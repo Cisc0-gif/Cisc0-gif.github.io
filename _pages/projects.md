@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Short games, prototypes, and group projects
+description: Games, Prototypes, and Group Projects
 nav: true
 nav_order: 3
 display_categories: [work, fun]
