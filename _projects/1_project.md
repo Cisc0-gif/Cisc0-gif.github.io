@@ -30,5 +30,3 @@ A small project we made for our Intermediate Game Programming class at UCI. Trib
         {% include figure.liquid loading="eager" path="assets/img/project_01/tribe_background01.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-{% endraw %}
