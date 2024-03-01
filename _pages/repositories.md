@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: GitHub Repositories
 description: Small-scale projects, code samples, and scripts
 nav: true
 nav_order: 4
@@ -38,7 +38,7 @@ nav_order: 4
 
 {:/comment}
 
-## GitHub Repositories
+[comment]: # GitHub Repositories
 
 {% if site.data.repositories.github_repos %}
 
