@@ -1,6 +1,6 @@
 ---
 layout: page
-title: papers
+title: Papers
 permalink: /papers/
 description: Essays, Commentaries, and Articles
 nav: true
