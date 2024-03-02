@@ -4,7 +4,7 @@ title: Tribe
 description: Simple turn-based strategy game featuring Local and Online Multiplayer
 img: assets/img/project_01/tribe_screenshot04.png
 importance: 1
-category: work
+category: project
 related_publications: true
 ---
 
