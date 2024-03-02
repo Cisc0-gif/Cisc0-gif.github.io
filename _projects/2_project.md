@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GDD - Sky: Children of the Light
+title: "GDD - Sky: Children of the Light"
 description: Game Design Document for a Midterm assignment
 img: assets/img/paper_01/sky_coverphoto.jpg
 importance: 2

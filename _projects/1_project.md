@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Tribe
-description: Simple turn-based strategy game featuring Local and Online Multiplayer
+description: Simple turn-based strategy game featuring Local and Online multiplayer
 img: assets/img/project_01/tribe_screenshot04.png
 importance: 1
 category: project
 related_publications: true
 ---
 
-A small project we made for our Intermediate Game Programming class at UCI. Tribe is a simple and accessible Turn-Based Strategy game where you position units on the board and watch them lay siege to each other's Bases until one of them is destroyed.
+A small project we made for our Intermediate Game Programming class at UCI. Tribe is a simple and accessible Turn-Based Strategy game where you position units on the board and watch them lay siege to each other's bases until one of them is destroyed.
 
 
 <div class="row">
