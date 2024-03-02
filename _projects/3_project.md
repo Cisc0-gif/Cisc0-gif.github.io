@@ -2,7 +2,7 @@
 layout: page
 title: Photonics
 description: Short Puzzle-Game using Light and Prisms
-img: assets/img/7.jpg
+img: assets/img/project_02/Logo_1920x1920.jpg
 redirect: https://fergo310.itch.io/photonics
 importance: 3
 category: work
