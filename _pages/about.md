@@ -6,7 +6,7 @@ subtitle: Undergrad at UC Irvine (ICS Department)
 
 profile:
   align: right
-  image: IMG_7186.png
+  image: cover_photo.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
