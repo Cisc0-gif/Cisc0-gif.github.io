@@ -5,7 +5,7 @@ permalink: /projects/
 description: Games, Prototypes, and Group Projects
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [project]
 horizontal: false
 ---
 

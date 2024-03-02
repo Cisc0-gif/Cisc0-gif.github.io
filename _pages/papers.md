@@ -5,7 +5,7 @@ permalink: /papers/
 description: Essays, Commentaries, and Articles
 nav: true
 nav_order: 9
-display_categories: [work, fun]
+display_categories: [paper]
 horizontal: false
 ---
 
@@ -17,7 +17,7 @@ horizontal: false
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.papers | where: "category", category %}
+  {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.papers | sort: "importance" %}
+{% assign sorted_projects = site.projects | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
