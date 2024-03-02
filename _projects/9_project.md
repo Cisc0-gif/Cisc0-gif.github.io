@@ -9,8 +9,8 @@ category: project
 
 A small project created in Unity (URP 2022) for my Advanced Unity Programming course (GDIM 33). All models were created in Blender.
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-YecVbyKXdQ?si=VngZJs3ZF4g-n0bI" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
