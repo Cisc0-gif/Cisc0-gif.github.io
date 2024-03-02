@@ -11,7 +11,7 @@ A small project created in Unity (URP 2022) for my Advanced Unity Programming co
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TOUCV7deUA0?si=j7zkpcR76VWBPa82" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-As there are too many files to realistically include, please see below for the shaders README files instead.
+As there are too many files to realistically include, please see below for the shaders README files instead. Code availabe upon request.
 
 CelShaderAdditional_README.txt
 ```

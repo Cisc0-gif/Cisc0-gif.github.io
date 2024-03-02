@@ -2,7 +2,7 @@
 layout: page
 title: Papers
 permalink: /papers/
-description: Essays, Commentaries, and Articles
+description: Essays, Design Docs, and Articles
 nav: true
 nav_order: 2
 display_categories: [paper]

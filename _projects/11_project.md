@@ -9,11 +9,9 @@ category: project
 
 A small project created in Unity (URP 2022) for my Advanced Unity Programming course (GDIM 33). All models were created in Blender.
 
-<div class="row">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/HS1fY9ULopY?si=m3zbXy9h0GaTqVbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HS1fY9ULopY?si=m3zbXy9h0GaTqVbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-As there are too many files to realistically include, please see below for the shaders README file instead.
+As there are too many files to realistically include, please see below for the shaders README file instead. Code available upon request.
 
 GDIM33_Physics_Demo_Writeup.txt
 ```
