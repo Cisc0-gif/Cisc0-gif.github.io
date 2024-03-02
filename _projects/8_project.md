@@ -2,7 +2,7 @@
 layout: page
 title: GDD - Little Dark Age
 description: Game Design Document for a prototype codenamed "Little Dark Age"
-img: assets/img/paper_02/LDA_CoverArt_MaxRender_02_230223.jpg
+img: assets/img/paper_02/LDA_CoverArt_MaxRender_02_230323.jpg
 importance: 2
 category: paper
 ---
