@@ -30,7 +30,6 @@ horizontal: false
     {% endfor %}
   </div>
   {% endif %}
-  {% endfor %}
 
 {% else %}
 
