@@ -1,32 +1,28 @@
 ---
 layout: page
-title: Procedural Animation Demo (IK)
+title: Procedural Animation Demo
 description: Procedural animation written in C# using IK
 img: assets/img/project_07/procedural_animation_demo_screenshot.png
 importance: 1
 category: project
-related_publications: true
 ---
-
 
 A small project created in Unity (URP 2022) for my Advanced Unity Programming course (GDIM 33).
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/-YecVbyKXdQ" class="img-fluid rounded z-depth-1" %}
-    </div>
+    {% include video.liquid path="https://www.youtube.com/embed/-YecVbyKXdQ?si=VngZJs3ZF4g-n0bI" class="img-fluid rounded z-depth-1" %}
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=lvs-_xxHEWM&ab_channel=giists" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/lvs-_xxHEWM?si=S7QMp_ao63TS8afn" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=sJSA5Zyg7WM&ab_channel=giists" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/sJSA5Zyg7WM?si=Hvq-pSDkkbUIuPh6" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    These videos from <a href="https://www.youtube.com/@giists5197">giists</a>proved to be a very helpful source for programming the basic movement.
+    These videos from <a href="https://www.youtube.com/@giists5197">giists</a> proved to be a very helpful source for programming the basic movement.
 </div>
 
 IKMovement.cs
