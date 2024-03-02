@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Photonics
+description: Short Puzzle-Game using Light and Prisms
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://fergo310.itch.io/photonics
 importance: 3
 category: work
 ---
