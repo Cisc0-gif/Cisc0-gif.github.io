@@ -9,11 +9,8 @@ category: project
 
 A small project created in Unity (URP 2022) for my Advanced Unity Programming course (GDIM 33).
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/-YecVbyKXdQ?si=VngZJs3ZF4g-n0bI" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-YecVbyKXdQ?si=VngZJs3ZF4g-n0bI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
