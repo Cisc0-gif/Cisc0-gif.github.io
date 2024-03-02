@@ -19,7 +19,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm currently studying at UCI for a B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies. Pursuing my passion for Digital Art and Storytelling through Game Development, I'm particularly interested in a revival of early 2000s design standards which focused on physically bringing people together and engaging them through movement and competition, such as games like Wii Sports, Just Dance, and Guitar Hero, to name a few.
+I'm currently studying at UCI for a B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies. I plan to graduate in Fall of 2026.
+
+My main areas of expertise are <b>graphic design</b>, <b>front-end development</b>, and <b>character art</b>.
+
+Pursuing my passion for digital art and storytelling through game development, I've particularly interested in a revival of early 2000s design standards recently due to their focus on physically bringing people together and engaging them through movement and competition, such as games like Wii Sports, Just Dance, and Guitar Hero, to name a few.
+
+Usually I'm
 
 {::comment}
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

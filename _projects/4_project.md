@@ -3,8 +3,8 @@ layout: page
 title: Going Light.
 description: Website I created for an approach to digital minimalism on iPhone
 img: assets/img/project_03/home_screenshot.png
-importance: 3
-category: project
+importance: 1
+category: websites
 ---
 
 I created "Going Light." in 2023, during a time when I was going through a personal journey of digital minimalism. Struggling to reclaim a balance of mental and physical health in my first year of college, I had begun looking back on the countless hours I had spent in Middle and High School on my phone and realized I needed pull away from the addictive qualities of social media and mobile gaming to refocus my energy into more creative outlets and improve my skills as an artist and an author.

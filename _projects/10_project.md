@@ -3,13 +3,14 @@ layout: page
 title: Scene using various shaders
 description: Grass Vertex Shader (ShaderGraph), Cel Shader (ShaderGraph), and Pixelated Post-Processing Shader (HLSL)
 img: assets/img/project_08/shader_demo_screenshot.png
-importance: 1
-category: project
+importance: 2
+category: prototypes
 ---
 
 A small project created in Unity (URP 2022) for my Advanced Unity Programming course (GDIM 33). All models were created in Blender.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TOUCV7deUA0?si=j7zkpcR76VWBPa82" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
 
 As there are too many files to realistically include, please see below for the shaders README files instead. Code availabe upon request.
 

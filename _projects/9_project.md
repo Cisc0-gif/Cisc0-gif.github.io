@@ -4,7 +4,7 @@ title: Procedural Animation Demo
 description: Procedural animation written in C# using IK
 img: assets/img/project_07/procedural_animation_demo_screenshot.png
 importance: 1
-category: project
+category: prototypes
 ---
 
 A small project created in Unity (URP 2022) for my Advanced Unity Programming course (GDIM 33). All models were created in Blender.

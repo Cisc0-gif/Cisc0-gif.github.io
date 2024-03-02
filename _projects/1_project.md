@@ -5,7 +5,7 @@ description: Simple turn-based strategy game featuring Local and Online multipla
 img: assets/img/project_01/tribe_screenshot04.png
 importance: 1
 redirect: https://fergo310.itch.io/tribe
-category: project
+category: games
 related_publications: true
 ---
 

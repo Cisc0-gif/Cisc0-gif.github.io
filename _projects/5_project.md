@@ -3,8 +3,8 @@ layout: page
 title: Gozony LNC
 description: Website made in Wix, comissioned for a Legal Nurse Consulting business.
 img: assets/img/project_04/home_screenshot.png
-importance: 3
-category: project
+importance: 2
+category: websites
 ---
 
 GozonyLNC was a website I designed and built from the ground up in Wix, commissioned by my Mother for her Legal Nurse Consulting business. All assets were built in Adobe Illustrator and GIMP, with which I create all of her physical marketing materials as well (i.e postcards, business cards, etc.).

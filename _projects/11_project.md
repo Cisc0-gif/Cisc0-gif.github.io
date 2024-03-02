@@ -3,13 +3,14 @@ layout: page
 title: Physics Shader Demo
 description: Cloth Component and "Jelly" Physics Shaders
 img: assets/img/project_09/physics_demo_screenshot.png
-importance: 1
-category: project
+importance: 3
+category: prototypes
 ---
 
 A small project created in Unity (URP 2022) for my Advanced Unity Programming course (GDIM 33). All models were created in Blender.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HS1fY9ULopY?si=m3zbXy9h0GaTqVbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
 
 As there are too many files to realistically include, please see below for the shaders README file instead. Code available upon request.
 
