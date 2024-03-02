@@ -23,7 +23,7 @@ I created "Going Light." in 2023, during a time when I was going through a perso
     </div>
 </div>
 <div class="caption">
-    All photos were legally sourced from <a href="pixabay.com">Pixabay</a>, a website I had learned of during my time as a Graphic Designer for <a href="seco-larm.com">SECO-LARM</a>.
+    All photos were legally sourced from <a href="https://www.pixabay.com">Pixabay</a>, a website I had learned of during my time as a Graphic Designer for <a href="https://www.seco-larm.com">SECO-LARM</a>.
 </div>
 A chapter house or chapterhouse is a building or room that is part of a cathedral, monastery or collegiate church in which meetings are held. When attached to a cathedral, the cathedral chapter meets there.
 
