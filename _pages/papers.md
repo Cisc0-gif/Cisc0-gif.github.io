@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers/
 description: Essays, Commentaries, and Articles
 nav: true
-nav_order: 9
+nav_order: 2
 display_categories: [paper]
 horizontal: false
 ---

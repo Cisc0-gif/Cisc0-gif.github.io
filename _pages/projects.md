@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: Games, Prototypes, and Group Projects
 nav: true
-nav_order: 3
+nav_order: 1
 display_categories: [project]
 horizontal: false
 ---
