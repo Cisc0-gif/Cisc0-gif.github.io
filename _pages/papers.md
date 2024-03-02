@@ -5,7 +5,7 @@ permalink: /papers/
 description: Essays, Design Docs, and Articles
 nav: true
 nav_order: 2
-display_categories: [paper]
+display_categories: [essays, design docs, articles]
 horizontal: false
 ---
 

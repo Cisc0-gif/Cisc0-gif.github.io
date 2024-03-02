@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🐀# the emoji used as the favicon (alternatively, provide image name in /assets/img/) 😿🙀😺😸😻🦊🐕‍🦺🦝🐈🐭🐁🐀🦔⚛️
 
 url: https://cisc0-gif.github.io # the base hostname & protocol for your site
 baseurl: #/al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -40,7 +40,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -71,7 +71,7 @@ github_username: Cisc0-gif # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: Fergo310 # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: Ferenc Gozony # your LinkedIn user name
+linkedin_username: ferenc-gozony-766094217 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: #qc6CJjYAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
