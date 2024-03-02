@@ -13,9 +13,9 @@ profile:
     <p></p>
     <p></p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -24,8 +24,6 @@ I'm currently studying at UCI for a B.S in Game Design and Interactive Media, al
 My main areas of expertise are <b>graphic design</b>, <b>front-end development</b>, and <b>character art</b>.
 
 Pursuing my passion for digital art and storytelling through game development, I've particularly interested in a revival of early 2000s design standards recently due to their focus on physically bringing people together and engaging them through movement and competition, such as games like Wii Sports, Just Dance, and Guitar Hero, to name a few.
-
-Usually I'm
 
 {::comment}
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

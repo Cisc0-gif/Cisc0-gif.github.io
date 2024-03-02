@@ -5,7 +5,7 @@ permalink: /projects/
 description: Games, Prototypes, and Websites
 nav: true
 nav_order: 1
-display_categories: [games, websites, prototypes]
+display_categories: [games, prototypes, websites]
 horizontal: false
 ---
 
