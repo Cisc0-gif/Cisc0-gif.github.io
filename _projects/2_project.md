@@ -9,7 +9,7 @@ category: paper
 
 17 page imitation Design Document breaking down the game's overhead design elements.
 
-<iframe src="../assets/pdf/gdd_skychildrenoflight.pdf" width="800" height="500"></iframe>
+<object data="../assets/pdf/gdd_skychildrenoflight.pdf" width="800" height="500" type='application/pdf'></object>
 
 
 
