@@ -60,7 +60,7 @@
     {
       "name": "C++ Course",
       "date": "2021-03-12",
-      "issuer": "SoloLearm",
+      "issuer": "SoloLearn",
       "url": "https://sololearn.com",
       "icon": ""
     },
@@ -76,34 +76,58 @@
       "date": "2017-11-23",
       "issuer": "SoloLearn",
       "url": "https://sololearn.com",
-      "icon": "fa-solid fa-envelope"
+      "icon": ""
     }
   ],
   "publications": [],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Game Systems Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Core mechanics",
+        "Save, Inventory, and Stats systems",
+        "Turn-based combat",
+        "String DB Management and Localization",
+        "VFX Shaders",
+        "Mechanics Design"
+      ]
+    },
+    {
+      "name": "Industry Development Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "GameMaker (3 years)",
+        "Unity (2 years)",
+        "Aseprite (2 years)",
+        "Adobe Creative Suite (2 years)",
+        "Visual Studio (2 years)"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python (6 years)",
+        "MS-DOS & Bash (6 years)",
+        "GameMaker Language (3 years)",
+        "C# (2 years)",
+        "C++ (1 year)"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Spanish",
+      "fluency": "Intermediate",
       "icon": ""
     }
   ],
