@@ -38,7 +38,7 @@
       "startDate": "2020-01-01",
       "endDate": "2022-02-01",
       "summary": "Worked 2 jobs as an 'Essential worker' during the pandemic. The first was at 'Benjies NY Deli' in Santa Ana, CA, where I worked as a Dishwasher during the summer of my Junior year. Then I began to search for a higher paying position and landed a job as a Barista at 'King Coffee, Inc.' in Anaheim, CA. Here I learned to provide good customer service and meet restaurant cleanliness standards. However, I left several months later in pursuit of a job that was more geared towards the Computer Science industry.",
-      "highlights": ["Customer Service", "Team Work"]
+      "highlights": ["Adobe Creative Suite", "ConstantContact"]
     }
   ],
   "volunteer": [],
@@ -82,62 +82,65 @@
   "publications": [],
   "skills": [
     {
-      "name": "Game Systems Programming",
+      "name": "Physics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Core mechanics",
-        "Save, Inventory, and Stats systems",
-        "Turn-based combat",
-        "String DB Management and Localization",
-        "VFX Shaders",
-        "Mechanics Design"
-      ]
-    },
-    {
-      "name": "Industry Development Tools",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "GameMaker (3 years)",
-        "Unity (2 years)",
-        "Aseprite (2 years)",
-        "Adobe Creative Suite (2 years)",
-        "Visual Studio (2 years)",
-      ]
-    },
-    {
-      "name": "Programming Languages",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python (6 years)",
-        "MS-DOS & Bash (6 years)",
-        "GameMaker Language (3 years)",
-        "C# (2 years)",
-        "C++ (1 year)",
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "German",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     }
   ],
-  "interests": [],
-  "references": [
+  "interests": [
     {
-      "name": "James Hollifield",
-      "icon": "",
-      "reference": "Senior Graphic Designer for SECO-LARM, USA, whom I worked with for a year."
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
     }
   ],
-  "projects": []
+  "references": [
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    },
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    }
+  ]
 }
