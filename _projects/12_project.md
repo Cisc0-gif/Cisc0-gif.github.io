@@ -16,7 +16,7 @@ As I worked on retheming this site, I encountered some obstacles to customizatio
 <li> Adding a 'Papers' section </li>
 </ul>
 
-<h3>Adding and Changing Social Icons</3>
+<h3>Adding and Changing Social Icons</h3>
 
 _includes/head.liquid
 Go to <a href="https://fontawesome.com/">, create a profile, and get your free web fonts kit.
