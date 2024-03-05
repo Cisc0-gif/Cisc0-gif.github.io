@@ -19,7 +19,7 @@ As I worked on retheming this site, I encountered some obstacles to customizatio
 <h3>Adding and Changing Social Icons</h3>
 
 _includes/head.liquid
-Go to <a href="https://fontawesome.com/">, create a profile, and get your free web fonts kit.
+Go to <a href="https://fontawesome.com/">fontawesome</a>, create a profile, and get your free web fonts kit.
 Add your Kit Embed code under the ```<!-- Fonts & Icons -->``` section. It should look like below.
 ```
 <script src="https://kit.fontawesome.com/##########.js" crossorigin="anonymous"></script>
