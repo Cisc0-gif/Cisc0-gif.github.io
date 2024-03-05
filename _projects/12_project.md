@@ -14,22 +14,32 @@ As I worked on retheming this site, I encountered some obstacles to customizatio
 <br>
 
 <h3>Adding and Changing Social Icons</h3>
+
 <br>
+
 <i>_includes/head.liquid</i>
+
 <br>
+
 Go to <a href="https://fontawesome.com/">fontawesome</a>, create a profile, and get your free web fonts kit.
 Then add your Kit Embed code under the ```<!-- Fonts & Icons -->``` section. It should look like below.
 ```
 <script src="https://kit.fontawesome.com/##########.js" crossorigin="anonymous"></script>
 ```
 
-<i>_includes/social.liquid</i>
 <br>
+
+<i>_includes/social.liquid</i>
+
+<br>
+
 Now go to your desired social link (Ctrl + F to find the link) and change the following to whatever icon you want:
 ```
 <i class="fa-CATEGORY fa-ICON">
 ```
+
 <br>
+
 For example, in _config.yml I set the 'work' social link to my itch.io page and then changed
 ```
 <a href="{{ site.work_url }}" title="Work"><i class="fa-solid fa-briefcase"></i></a>
@@ -38,6 +48,7 @@ to
 ```
 <a href="{{ site.work_url }}" title="Work"><i class="fa-brands fa-itch-io"></i></a>
 ```
+
 <br>
 <br>
 
