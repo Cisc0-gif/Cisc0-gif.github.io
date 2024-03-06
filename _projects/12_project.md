@@ -19,8 +19,6 @@ As I worked on retheming this site, I encountered some obstacles to customizatio
 
 <i>_includes/head.liquid</i>
 
-<br>
-
 Go to <a href="https://fontawesome.com/">fontawesome</a>, create a profile, and get your free web fonts kit.
 Then add your Kit Embed code under the ```<!-- Fonts & Icons -->``` section. It should look like below.
 ```
@@ -30,8 +28,6 @@ Then add your Kit Embed code under the ```<!-- Fonts & Icons -->``` section. It 
 <br>
 
 <i>_includes/social.liquid</i>
-
-<br>
 
 Now go to your desired social link (Ctrl + F to find the link) and change the following to whatever icon you want:
 ```
