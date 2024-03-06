@@ -10,5 +10,8 @@ category: essays
 
 Research study conducted on Rainbow 6 Siege Operator stats in Year 8 Seasons 1-4.2, in which my team developed a research design and executed data collection, wrangling, and analysis over the span of 8 weeks. Visualizations provided in the report hint at the possibility of several trends pertaining to Win Delta, Presence, and player familiarity with long-standing Operators, with summary data and statistics provided in ```Year_8_Operator_Stats_240305.xlsx``` <a href="{{ page.xlsx_file | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-excel"></i></a>
 
-<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/Year_8_Operator_Research_Report_240305.pdf" width="800" height="500" type='application/pdf'></object>
+<iframe src="https://drive.google.com/file/d/1Ul3H0AIfPK6Pdbr-prTlQhxmy4RY6Cmt/preview" width="640" height="480" allow="autoplay"></iframe>
 
+<!--
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/Year_8_Operator_Research_Report_240305.pdf" width="800" height="500" type='application/pdf'></object>
+-->
