@@ -21,6 +21,6 @@ The Owner shall not be liable for any direct, indirect, incidental, consequentia
 
 By accessing or using any copyrighted materials owned by Ferenc Gozony, you acknowledge and agree to abide by the terms of this Copyright Disclaimer. If you do not agree with any of these terms, please refrain from accessing or using the copyrighted materials.
 
-For any inquiries regarding this Copyright Disclaimer, please contact Ferenc Gozony at fergo310@yahoo.com.
+For any inquiries regarding this Copyright Disclaimer, please contact Ferenc Gozony at <a href="mailto:%66%65%72%67%6F%33%31%30@%79%61%68%6F%6F.%63%6F%6D" title="email">fergo310@yahoo.com</a>.
 
-Date: 03/06/2024 Ferenc Gozony Orange County, CA Cisc0-gif.github.io
+Date: 03/06/2024 Ferenc Gozony Orange County, CA <a href="https://cisc0-gif.github.io">Cisc0-gif.github.io</a>
