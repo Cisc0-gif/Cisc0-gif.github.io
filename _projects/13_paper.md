@@ -1,9 +1,9 @@
 ---
 layout: page
-title: R6 Year 8 Research Report
-description: Rainbow 6 Siege Operator stats in Year 8 (Win Delta and Presence, Y8S1-Y8S4.2)
+title: Rainbow 6 Siege - Year 8 Research Report
+description: R6 Operator stats in Year 8 (Win Delta and Presence)
 img: assets/img/paper_04/report_frontpage_screenshot.png
-xlsx_file: assets/pdf/Year_8_Operator_Stats_240305.xlsx
+xlsx_file: Year_8_Operator_Stats_240305.xlsx
 importance: 2
 category: essays
 ---
