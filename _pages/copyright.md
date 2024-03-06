@@ -2,13 +2,10 @@
 layout: page
 permalink: /copyright/
 title: Copyright
-description: Ferenc Gozony Copyright Disclaimer
+description:
 nav: true
 nav_order: 6
 ---
-
-```
-Ferenc Gozony Copyright Disclaimer
 
 This Copyright Disclaimer (“Disclaimer”) sets forth the rights, limitations, and obligations concerning the use of copyrighted materials owned by Ferenc Gozony (“Owner”). By accessing or using any materials, content, or intellectual property owned by the Owner, you acknowledge and agree to the terms of this Disclaimer.
 
@@ -27,4 +24,3 @@ By accessing or using any copyrighted materials owned by Ferenc Gozony, you ackn
 For any inquiries regarding this Copyright Disclaimer, please contact Ferenc Gozony at fergo310@yahoo.com.
 
 Date: 03/06/2024 Ferenc Gozony Orange County, CA Cisc0-gif.github.io
-```

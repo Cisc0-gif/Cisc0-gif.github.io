@@ -9,6 +9,8 @@ category: design docs
 
 32 page Design Document providing a complete overhead of LDA's narrative, world, art design, mechanics, and development plan
 
+<i>Copyright notice: All materials, content, and intellectual property on this site belongs to me.</i>
+
 <object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/gdd_littledarkage.pdf" width="800" height="500" type='application/pdf'></object>
 
 
