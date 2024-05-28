@@ -1,10 +1,15 @@
 ---
 layout: about
+HTMLtitle: Ferenc Gozony
 title: About
 permalink: /
 subtitle: 
 images:
-  slider: true  
+  slider: true 
+css: >
+  h1.page-title {
+    display: none;
+  }
 
 profile:
   align: right
@@ -20,7 +25,6 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-<title>Ferenc Gozony</title>
 <h1><strong>Ferenc</strong> Gozony</h1>
 <br>	
 <p>Experienced Visual Designer with a background in Graphic Design, Computer Science, and Game Development.</p>
