@@ -1,7 +1,6 @@
 ---
 layout: about
 title: About
-HTMLtitle: "Ferenc Gozony"
 permalink: /
 subtitle: 
 images:
