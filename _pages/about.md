@@ -25,8 +25,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 <h1><strong>Ferenc</strong> Gozony</h1>
-<p>Experienced Visual Designer with a background in Graphic Design, Computer Science, and Game Development.</p>
-<br>
+<p><strong>Experienced Visual Designer with a background in Graphic Design, Computer Science, and Game Development.</strong></p>
 <p>I’m currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies.</p>
 <p>I plan to graduate in Spring of 2025.</p>
 
@@ -36,8 +35,9 @@ social: true # includes social icons at the bottom of the page
 <br>
 <h2><strong>Convergence</strong></h2>
 <h4>May 2024 <strong>|</strong> Unity <strong>|</strong> Team size: 5 <strong>|</strong> <i>Visual Designer, Sound Designer</i></h4>
-<br>
+<p></p>
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
+<br>
 <swiper-container keyboard="true" navigation="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -47,8 +47,9 @@ social: true # includes social icons at the bottom of the page
 <br>
 <h2><strong>Project: Ether</strong></h2>
 <h4>May 2024 <strong>|</strong> Unreal 5 <strong>|</strong> Team size: 40 <strong>|</strong> <i>3D Model Rigging</i></h4>
-<br>
+<p></p>
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
+<br>
 <swiper-container keyboard="true" navigation="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
