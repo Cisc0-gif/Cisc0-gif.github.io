@@ -1,7 +1,7 @@
 ---
 layout: about
-HTMLtitle: Ferenc Gozony
 title: About
+HTMLtitle: Ferenc Gozony
 permalink: /
 subtitle: 
 images:
