@@ -25,8 +25,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 <h1><strong>Ferenc</strong> Gozony</h1>
-<br>	
 <p>Experienced Visual Designer with a background in Graphic Design, Computer Science, and Game Development.</p>
+<br>
 <p>I’m currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies.</p>
 <p>I plan to graduate in Spring of 2025.</p>
 
@@ -35,7 +35,7 @@ social: true # includes social icons at the bottom of the page
 <hr>
 <br>
 <h2><strong>Convergence</strong></h2>
-<h3><italic>May 2024 | Unity | Team size: 5</italic> | Visual Designer, Sound Designer</h3>
+<h4>May 2024 | Unity | Team size: 5 | <i>Visual Designer, Sound Designer</i></h4>
 <swiper-container keyboard="true" navigation="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -44,7 +44,7 @@ social: true # includes social icons at the bottom of the page
 <br>
 <br>
 <h2><strong>Project: Ether</strong></h2>
-<h3><italic>May 2024 | Unreal 5 | Team size: 40</italic> | 3D Model Rigging
+<h4>May 2024 | Unreal 5 | Team size: 40 | <i>3D Model Rigging</i></h4>
 <swiper-container keyboard="true" navigation="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
