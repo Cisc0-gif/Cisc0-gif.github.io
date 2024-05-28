@@ -34,7 +34,7 @@ social: true # includes social icons at the bottom of the page
 <hr>
 <br>
 <h2><strong>Convergence</strong></h2>
-<h5>Visual Designer, Sound Designer | May 2024 | Unity | Team size: 5</h5>
+<h5><strong>Visual Designer, Sound Designer</strong> | May 2024 | Unity | Team size: 5</h5>
 <p></p>
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
 <hr style="height:5pt; visibility:hidden;" />
@@ -46,15 +46,23 @@ social: true # includes social icons at the bottom of the page
 <br>
 <br>
 <h2><strong>Project: Ether</strong></h2>
-<h5>3D Model Rigging | May 2024 | Unreal 5 | Team size: 40</h5>
+<h5><strong>3D Model Rigging</strong> | May 2024 | Unreal 5 | Team size: 40</h5>
 <p></p>
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
-<br>
+<hr style="height:5pt; visibility:hidden;" />
 <swiper-container keyboard="true" navigation="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_03.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
+<br>
+<br>
+<h2><strong>VFX Shaders Demo</strong></h2>
+<h5><strong>Tech Artist, 3D Modeling</strong> | Unity</h5>
+<p></p>
+<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
+<hr style="height:5pt; visibility:hidden;" />
+<div align="center"><iframe width="100%" height="450px" src="https://www.youtube.com/embed/TOUCV7deUA0?si=j7zkpcR76VWBPa82" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 <br>
 
 <!--
