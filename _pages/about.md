@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle: Experienced Visual Designer with a background in Graphic Design, Computer Science, and Game Development.
 images:
   slider: true
 
@@ -21,7 +21,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Experienced Visual Designer with a background in Graphic Design, Computer Science, and Game Development.
 
 I’m currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies. 
 
@@ -32,7 +31,7 @@ I plan to graduate in Spring of 2025.
 <hr>
 <br>
 <h2><strong>Convergence</strong></h2>
-<swiper-container keyboard="true" navigation="false" pagination="false" scrollbar="true" pagination-clickable="true" pagination-dynamic-bullets="false" rewind="true">
+<swiper-container keyboard="true" navigation="false" pagination="true" scrollbar="true" pagination-clickable="true" pagination-dynamic-bullets="false" rewind="true">
 
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
