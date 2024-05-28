@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-HTMLtitle: Ferenc Gozony
+HTMLtitle: "Ferenc Gozony"
 permalink: /
 subtitle: 
 images:
@@ -31,7 +31,7 @@ social: true # includes social icons at the bottom of the page
 <p>I’m currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies.</p>
 <p>I plan to graduate in Spring of 2025.</p>
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 <h1>Games</h1>
 <hr>
 <br>
