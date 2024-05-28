@@ -62,7 +62,7 @@ social: true # includes social icons at the bottom of the page
 <p></p>
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
 <hr style="height:5pt; visibility:hidden;" />
-<div align="center"><iframe width="100%" height="450px" src="https://www.youtube.com/embed/TOUCV7deUA0?si=j7zkpcR76VWBPa82" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div align="center"><iframe width="100%" height="350" src="https://www.youtube.com/embed/TOUCV7deUA0?si=j7zkpcR76VWBPa82" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 <br>
 
 <!--
