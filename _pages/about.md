@@ -21,16 +21,39 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m currently studying for my B.S in Game Design and Interactive Media at UCI, alongside a Minor in Film & Media Studies. I plan to graduate in Spring of 2025.
 
 
-## Games
 
-# Convergence
+
+
+
+
+
+
+
+
+
+I’m currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies. 
+I plan to graduate in Spring of 2025.
+
+
+
+
+
+
+
+
+
+
+
+
+# Games
+
+## <strong>Convergence</strong>
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" align="right">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/convergence_assets/convergencetest_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/convergence_assets/convergencetest_03.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_03.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 {::comment}
