@@ -35,7 +35,9 @@ social: true # includes social icons at the bottom of the page
 <hr>
 <br>
 <h2><strong>Convergence</strong></h2>
-<h4>May 2024 | Unity | Team size: 5 | <i>Visual Designer, Sound Designer</i></h4>
+<h4>May 2024 <strong>|</strong> Unity <strong>|</strong> Team size: 5 <strong>|</strong> <i>Visual Designer, Sound Designer</i></h4>
+<br>
+<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
 <swiper-container keyboard="true" navigation="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -44,7 +46,9 @@ social: true # includes social icons at the bottom of the page
 <br>
 <br>
 <h2><strong>Project: Ether</strong></h2>
-<h4>May 2024 | Unreal 5 | Team size: 40 | <i>3D Model Rigging</i></h4>
+<h4>May 2024 <strong>|</strong> Unreal 5 <strong>|</strong> Team size: 40 <strong>|</strong> <i>3D Model Rigging</i></h4>
+<br>
+<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
 <swiper-container keyboard="true" navigation="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
