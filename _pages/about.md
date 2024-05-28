@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Artist, Visual Designer, 3D Animator
+subtitle: Visual Designer, 2D/3D Artist
 images:
   slider: true
 
@@ -21,35 +21,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-
-
-
-
-
-
-
-
-
-
-
+Experienced Visual Designer with a background in Graphic Design, Computer Science, and Game Development.
 
 I’m currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies. 
 I plan to graduate in Spring of 2025.
 
-
-
-
-
-
-
-
-
-
-
-
-# Games
-
-## <strong>Convergence</strong>
+<h1>Games</h1>
+<h2><strong>Convergence</strong></h2>
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" align="right">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
