@@ -2,10 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: Artist, Visual Designer, Programmer
+subtitle: Artist, Visual Designer, 3D Animator
 images:
   slider: true
----
 
 profile:
   align: right
