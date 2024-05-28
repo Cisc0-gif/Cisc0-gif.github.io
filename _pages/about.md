@@ -35,8 +35,8 @@ social: true # includes social icons at the bottom of the page
 <hr>
 <br>
 <h2><strong>Convergence</strong></h2>
+<h3><italic>May 2024 | Unity | Team size: 5</italic> | Visual Designer, Sound Designer</h3>
 <swiper-container keyboard="true" navigation="true" rewind="true">
-
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_03.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -44,6 +44,7 @@ social: true # includes social icons at the bottom of the page
 <br>
 <br>
 <h2><strong>Project: Ether</strong></h2>
+<h3><italic>May 2024 | Unreal 5 | Team size: 40</italic> | 3D Model Rigging
 <swiper-container keyboard="true" navigation="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
