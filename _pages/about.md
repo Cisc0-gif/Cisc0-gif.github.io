@@ -49,6 +49,7 @@ social: true # includes social icons at the bottom of the page
 </swiper-container>
 <br>
 
+<!--
 {::comment}
 My main areas of expertise are <strong>graphic design</strong>, <strong>front-end development</strong>, and <strong>character art</strong>.
 
@@ -60,3 +61,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 {:/comment}
+-->
