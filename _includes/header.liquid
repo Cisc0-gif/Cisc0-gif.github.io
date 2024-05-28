@@ -4,7 +4,7 @@
     <div class="container">
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-		{{ page.HTMLtitle | site.title }}
+		{{ page.HTMLtitle }} | {{ site.title }}
 		<!--
           {% if site.title == 'blank' %}
             {% if site.first_name %}
