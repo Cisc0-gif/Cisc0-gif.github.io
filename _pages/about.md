@@ -27,18 +27,16 @@ I’m currently studying at UC Irvine for my B.S in Game Design and Interactive 
 
 I plan to graduate in Spring of 2025.
 
-<div class="container">
-  <h1>Games</h1>
-  <hr>
-  <br>
-  <h2><strong>Convergence</strong></h2>
-</div>
+<br><br><br><br>
+<h1>Games</h1>
+<hr>
+<br>
+<h2><strong>Convergence</strong></h2>
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" align="right">
 
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_03.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <br>
 </swiper-container>
 <br>
 <br>
@@ -47,7 +45,6 @@ I plan to graduate in Spring of 2025.
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_03.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <br>
 </swiper-container>
 
 {::comment}
