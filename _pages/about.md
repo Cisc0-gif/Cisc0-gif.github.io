@@ -25,11 +25,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<br>
+<br>
+<br>
 <h1><strong>Ferenc</strong> Gozony</h1>
 <p><strong>Experienced Visual Designer with a background in Graphic Design, Computer Science, and Game Development.</strong></p>
 <hr style="height:5pt; visibility:hidden;" />
+<!--
 <p>Currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies.</p>
 <p>I plan to graduate in Spring of 2025.</p>
+-->
 <button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">Artstation</button>
 
 

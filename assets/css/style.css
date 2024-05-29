@@ -5,15 +5,15 @@
 }
 
 [data-theme="dark"] {
-  --button-bg: #E8E8E8;
+  --button-bg: #2698BA;
   --button-text: #1C1C1D;
-  --button-hover-bg: #2698BA;
+  --button-hover-bg: #E8E8E8;
 }
 
 [data-theme="light"] {
-  --button-bg: #1C1C1D;
+  --button-bg: #B509AC;
   --button-text: #E8E8E8;
-  --button-hover-bg: #B509AC;
+  --button-hover-bg:#1C1C1D;
 }
 
 .theme-button {
