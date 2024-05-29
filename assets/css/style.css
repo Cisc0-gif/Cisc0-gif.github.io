@@ -35,6 +35,10 @@
   background-color: var(--button-hover-bg);
 }
 
+img:hover {
+	filter: brightness(90%);
+}
+
 @media (max-width: 768px) {
     .desktop-only {
         display: none;
