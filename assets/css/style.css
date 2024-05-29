@@ -1,0 +1,36 @@
+:root {
+  --button-bg: #4CAF50;
+  --button-text: white;
+  --button-hover-bg: #45a049;
+}
+
+[data-theme="dark"] {
+  --button-bg: #E8E8E8;
+  --button-text: #1C1C1D;
+  --button-hover-bg: #2698BA;
+}
+
+[data-theme="light"] {
+  --button-bg: #1C1C1D;
+  --button-text: #E8E8E8;
+  --button-hover-bg: #B509AC;
+}
+
+.theme-button {
+  background-color: var(--button-bg);
+  color: var(--button-text);
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.theme-button:hover {
+  background-color: var(--button-hover-bg);
+}

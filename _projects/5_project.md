@@ -3,7 +3,7 @@ layout: page
 title: Gozony LNC
 description: Website made in Wix, comissioned for a Legal Nurse Consulting business.
 img: assets/img/project_04/home_screenshot.png
-importance: 2
+importance: 7
 category: websites
 ---
 

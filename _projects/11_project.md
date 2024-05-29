@@ -3,7 +3,7 @@ layout: page
 title: Physics Shader Demo
 description: Cloth Component and "Jelly" Physics Shaders
 img: assets/img/project_09/physics_demo_screenshot.png
-importance: 3
+importance: 4
 category: prototypes
 ---
 

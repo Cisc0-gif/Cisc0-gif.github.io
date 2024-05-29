@@ -3,7 +3,7 @@ layout: page
 title: Procedural Animation Demo
 description: Procedural animation written in C# using IK
 img: assets/img/project_07/procedural_animation_demo_screenshot.png
-importance: 1
+importance: 5
 category: prototypes
 ---
 

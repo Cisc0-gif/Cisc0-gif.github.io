@@ -3,7 +3,7 @@ layout: page
 title: Going Light.
 description: Website I created for an approach to digital minimalism on iPhone
 img: assets/img/project_03/home_screenshot.png
-importance: 1
+importance: 6
 category: websites
 ---
 

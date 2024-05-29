@@ -3,7 +3,7 @@ layout: page
 title: This Website
 description: Portfolio website created with al-folio and Jekyll
 img: assets/img/project_12/portfolio_site_screenshot.png
-importance: 3
+importance: 8
 category: websites
 ---
 

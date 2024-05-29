@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mesos
-description: Original IP set in the desert wasteland of a negligent and polluted past
+description: World Design Document for an Original IP
 img: assets/img/paper_05/mesos_frontcover_screenshot.png
 importance: 3
 category: design docs

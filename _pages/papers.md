@@ -2,10 +2,10 @@
 layout: page
 title: Papers
 permalink: /papers/
-description: Essays, Design Docs, and Articles
+description: Design Docs, Essays, and Articles
 nav: true
 nav_order: 2
-display_categories: [essays, design docs, articles]
+display_categories: [design docs, essays, articles]
 horizontal: false
 ---
 

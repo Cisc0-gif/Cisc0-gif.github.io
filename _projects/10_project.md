@@ -3,7 +3,7 @@ layout: page
 title: Scene using various shaders
 description: Grass Vertex Shader (ShaderGraph), Cel Shader (ShaderGraph), and Pixelated Post-Processing Shader (HLSL)
 img: assets/img/project_08/shader_demo_screenshot.png
-importance: 2
+importance: 3
 category: prototypes
 ---
 
