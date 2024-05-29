@@ -5,10 +5,10 @@ permalink: /papers/
 description: Design Docs, Essays, and Articles
 nav: true
 nav_order: 2
-display_categories: [design docs, essays, articles]
+display_categories: 
 horizontal: false
 ---
-
+<!-- [design docs, essays, articles] -->
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
@@ -40,8 +40,8 @@ horizontal: false
 {% else %}
 
 <!-- Display projects without categories -->
-
 {% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign target_categories = "games,prototypes,websites" | split: "," %}
 
   <!-- Generate cards for each project -->
 
@@ -50,14 +50,30 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
+	  {% assign exclude = false %}
+      {% for category in project.categories %}
+        {% if target_categories contains category %}
+          {% assign exclude = true %}
+        {% endif %}
+      {% endfor %}
+      {% unless exclude %}
+        {% include projects_horizontal.liquid %}
+      {% endunless %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="grid">
     {% for project in sorted_projects %}
-      {% include projects.liquid %}
+      {% assign exclude = false %}
+      {% for category in project.categories %}
+        {% if target_categories contains category %}
+          {% assign exclude = true %}
+        {% endif %}
+      {% endfor %}
+      {% unless exclude %}
+        {% include projects.liquid %}
+      {% endunless %}
     {% endfor %}
   </div>
   {% endif %}

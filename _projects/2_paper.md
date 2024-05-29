@@ -9,7 +9,7 @@ category: design docs
 
 17 page imitation Design Document breaking down the game's overhead design elements.
 
-<iframe src="https://drive.google.com/file/d/10thHvhL-Gw6YKy1dL7ppKmveuh_yg2lk/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/10thHvhL-Gw6YKy1dL7ppKmveuh_yg2lk/preview" width="100%" height="500" allow="autoplay"></iframe>
 
 <!-- Method for embedding local pdfs
 
