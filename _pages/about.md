@@ -45,7 +45,7 @@ social: true # includes social icons at the bottom of the page
 <div style="display: flex; justify-content: space-between;">
   <h2 style="flex-basis: 49.5%;"><strong>Convergence</strong></h2>
   <div style="flex-basis: 49.5%;" align="right"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/10_project/';">More Info</button></div>
-  49.5% + 49.5% = 99%, remaining 1% is distributed according to justify-content
+  <!-- 49.5% + 49.5% = 99%, remaining 1% is distributed according to justify-content -->
 </div>
 <h5><strong>Lead Visual Designer, Sound Design</strong></h5>
 <h5>May 2024 | Unity | Team size: 5</h5>
