@@ -2,21 +2,18 @@
   --button-bg: #4CAF50;
   --button-text: white;
   --button-hover-bg: #45a049;
-  --cover-text: #E8E8E8;
 }
 
 [data-theme="dark"] {
   --button-bg: #E8E8E8;
   --button-text: #1C1C1D;
   --button-hover-bg: #2698BA;
-  --cover-text: #E8E8E8;
 }
 
 [data-theme="light"] {
   --button-bg: #1C1C1D;
   --button-text: #E8E8E8;
   --button-hover-bg: #B509AC;
-  --cover-text: #E8E8E8;
 }
 
 #light-toggle {
@@ -62,12 +59,10 @@
 	position: absolute;
 	bottom: 38px;
 	left: 16px;
-	color: var(--cover-text);
 }
 
 .bottom-left-role {
 	position: absolute;
 	bottom: 8px;
 	left: 16px;
-	color: var(--cover-text);
 }
