@@ -33,8 +33,10 @@ social: true # includes social icons at the bottom of the page
 <br><br><br><br><br>
 <!-- <h1>Games</h1> <hr> -->
 <hr>
-> The most beautiful thing in making games is the fact that before there is something there is nothing.
-> —Juhana Myllys
+<div class="desktop-only">
+  > The most beautiful thing in making games is the fact that before there is something there is nothing.
+  > —Juhana Myllys
+</div>
 <hr>
 <br>
 <br>

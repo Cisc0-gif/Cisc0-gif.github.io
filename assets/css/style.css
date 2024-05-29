@@ -34,3 +34,9 @@
 .theme-button:hover {
   background-color: var(--button-hover-bg);
 }
+
+@media (max-width: 768px) {
+    .desktop-only {
+        display: none;
+    }
+}
