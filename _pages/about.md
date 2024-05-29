@@ -27,11 +27,16 @@ social: true # includes social icons at the bottom of the page
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 <h1><strong>Ferenc</strong> Gozony</h1>
 <p><strong>Experienced Visual Designer with a background in Graphic Design, Computer Science, and Game Development.</strong></p>
-<p>I’m currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies.</p>
+<p>Currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies.</p>
 <p>I plan to graduate in Spring of 2025.</p>
 
-<br><br><br><br>
+<br><br><br><br><br>
 <!-- <h1>Games</h1> <hr> -->
+<hr>
+> The most beautiful thing in making games is the fact that before there is something there is nothing.
+> —Juhana Myllys
+<hr>
+<br>
 <br>
 <h2><strong>Convergence</strong></h2>
 <h5><strong>Lead Visual Designer, Sound Design</strong></h5>

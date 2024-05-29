@@ -7,12 +7,13 @@ importance: 5
 category: prototypes
 ---
 
-A small project created in Unity (URP 2022) for my Advanced Unity Programming course (GDIM 33). All models were created in Blender.
+A small scene created in Unity (URP 2022) and Blender.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-YecVbyKXdQ?si=VngZJs3ZF4g-n0bI" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/-YecVbyKXdQ?si=VngZJs3ZF4g-n0bI" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
 <br>
 
-<div class="row mt-3">
+<div class="row mt-3" align="center">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/lvs-_xxHEWM?si=S7QMp_ao63TS8afn" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -260,6 +261,7 @@ public class IKMovement : MonoBehaviour
 
 }
 ```
+<br>
 
 LegMovement.cs
 ```c#
@@ -437,6 +439,7 @@ public class LegMovement : MonoBehaviour
 
 }
 ```
+<br>
 
 SpiderController.cs
 ```c#
