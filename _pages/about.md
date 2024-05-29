@@ -48,9 +48,10 @@ social: true # includes social icons at the bottom of the page
   <!-- 49.5% + 49.5% = 99%, remaining 1% is distributed according to justify-content -->
 </div>
 <h5><strong>Lead Visual Designer, Sound Design</strong></h5>
-<h5>May 2024 | Unity | Team size: 5</h5>
+<!-- <h5>May 2024 | Unity | Team size: 5</h5>
 <p></p>
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
+-->
 <hr style="height:5pt; visibility:hidden;" />
 <swiper-container keyboard="true" scrollbar="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -65,9 +66,10 @@ social: true # includes social icons at the bottom of the page
   <!-- 49.5% + 49.5% = 99%, remaining 1% is distributed according to justify-content -->
 </div>
 <h5><strong>3D Model Rigging</strong></h5>
-<h5>May 2024 | Unreal 5 | Team size: 40</h5>
+<!-- <h5>May 2024 | Unreal 5 | Team size: 40</h5>
 <p></p>
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
+-->
 <hr style="height:5pt; visibility:hidden;" />
 <swiper-container keyboard="true" scrollbar="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>

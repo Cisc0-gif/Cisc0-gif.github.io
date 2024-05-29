@@ -16,10 +16,6 @@
   --button-hover-bg: #B509AC;
 }
 
-#light-toggle {
-	display: none;
-}
-
 .theme-button {
   background-color: var(--button-bg);
   color: var(--button-text);
