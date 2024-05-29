@@ -32,7 +32,7 @@ social: true # includes social icons at the bottom of the page
 
 <br><br><br><br><br>
 <!-- <h1>Games</h1> <hr> -->
-
+<hr>
 <div class="desktop-only">
   <hr>
   <blockquote>
@@ -40,6 +40,7 @@ social: true # includes social icons at the bottom of the page
   </blockquote>
   <hr>
 </div>
+<hr>
 <br>
 <br>
 
