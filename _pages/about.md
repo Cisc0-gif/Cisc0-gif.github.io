@@ -48,6 +48,7 @@ social: true # includes social icons at the bottom of the page
   <!-- 49.5% + 49.5% = 99%, remaining 1% is distributed according to justify-content -->
 </div>
 <h5><strong>Lead Visual Designer, Sound Design</strong></h5>
+<h5>Unity</h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
 <p></p>
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
@@ -66,6 +67,7 @@ social: true # includes social icons at the bottom of the page
   <!-- 49.5% + 49.5% = 99%, remaining 1% is distributed according to justify-content -->
 </div>
 <h5><strong>3D Model Rigging</strong></h5>
+<h5>Unreal 5</h5>
 <!-- <h5>May 2024 | Unreal 5 | Team size: 40</h5>
 <p></p>
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
@@ -85,8 +87,7 @@ social: true # includes social icons at the bottom of the page
 </div>
 <h5><strong>Tech Artist, 3D Modeling</strong></h5>
 <h5>Unity</h5>
-<p></p>
-<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
+<!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
 <hr style="height:5pt; visibility:hidden;" />
 <div align="center"><iframe width="100%" height="350" src="https://www.youtube.com/embed/TOUCV7deUA0?si=j7zkpcR76VWBPa82" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 <br>
