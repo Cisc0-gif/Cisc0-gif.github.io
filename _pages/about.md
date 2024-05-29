@@ -51,7 +51,7 @@ social: true # includes social icons at the bottom of the page
 </div>
 -->
 <h2><strong>Convergence</strong></h2>
-<h5><strong>Lead Visual Designer, Sound Design</strong></h5>
+<h5><strong>Art / Sound / Design</strong></h5>
 <h5>Unity</h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
 <p></p>
@@ -99,7 +99,7 @@ social: true # includes social icons at the bottom of the page
 </div>
 -->
 <h2><strong>VFX Shaders Demo</strong></h2>
-<h5><strong>Tech Artist, 3D Modeling</strong></h5>
+<h5><strong>Art / Design / 3D Modeling</strong></h5>
 <h5>Unity</h5>
 <!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
 <hr style="height:5pt; visibility:hidden;" />
