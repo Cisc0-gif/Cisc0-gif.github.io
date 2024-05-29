@@ -44,25 +44,3 @@
         display: none;
     }
 }
-
-.cover_container {
-	position: relative;
-	text-align: center;
-	color: white;
-}
-
-.cover_container:hover {
-	filter: brightness(90%);
-}
-
-.bottom-left-title {
-	position: absolute;
-	bottom: 38px;
-	left: 16px;
-}
-
-.bottom-left-role {
-	position: absolute;
-	bottom: 8px;
-	left: 16px;
-}

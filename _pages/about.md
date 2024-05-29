@@ -32,7 +32,6 @@ social: true # includes social icons at the bottom of the page
 
 <br><br><br><br><br>
 <!-- <h1>Games</h1> <hr> -->
-<hr>
 <div class="desktop-only">
   <hr>
   <blockquote>
@@ -40,15 +39,24 @@ social: true # includes social icons at the bottom of the page
   </blockquote>
   <hr>
 </div>
-<hr>
 <br>
 <br>
 
-<div class="cover_container">
-  <a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img src="assets/img/convergence_assets/convergenceasset_04.png" style="width:100%; height:100%"></a>
-  <div class="bottom-left-title"><h4><strong>Convergence</strong></h4></div>
-  <div class="bottom-left-role"><h5>Lead Visual Designer / Sound Designer</h5></div>
+<div style="display: flex; justify-content: space-between;">
+  <h2 style="flex-basis: 49.5%;"><strong>Convergence</strong></h2>
+  <div style="flex-basis: 49.5%;" align="right"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/10_project/';">More Info</button></div>
+  49.5% + 49.5% = 99%, remaining 1% is distributed according to justify-content
 </div>
+<h5><strong>Lead Visual Designer, Sound Design</strong></h5>
+<h5>May 2024 | Unity | Team size: 5</h5>
+<p></p>
+<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
+<hr style="height:5pt; visibility:hidden;" />
+<swiper-container keyboard="true" scrollbar="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_03.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
 <br>
 <br>
 <div style="display: flex; justify-content: space-between;">
