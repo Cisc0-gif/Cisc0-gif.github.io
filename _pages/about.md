@@ -47,8 +47,10 @@ social: true # includes social icons at the bottom of the page
   </blockquote>
   <hr>
 </div>
-<br>
-<br>
+<div class="desktop-only">
+  <br>
+  <br>
+</div>
 <h2><strong>Convergence</strong></h2>
 <h5><strong>Art / Sound / Design</strong> | Unity</h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>

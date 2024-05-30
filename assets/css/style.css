@@ -39,6 +39,10 @@ img:hover {
 	filter: brightness(90%);
 }
 
+img {
+	border-radius: 1%;
+}
+
 @media (max-width: 768px) {
     .desktop-only {
         display: none;
