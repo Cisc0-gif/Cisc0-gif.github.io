@@ -35,7 +35,12 @@ social: true # includes social icons at the bottom of the page
 <p>Currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies.</p>
 <p>I plan to graduate in Spring of 2025.</p>
 -->
-<button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">Artstation</button>
+<div style="display: flex; justify-content: flex-start; gap: 10px;">
+  <div align="left"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">Artstation</button></div>
+  <div align="left"><button class="theme-button" onclick="window.location.href='https://fergo310.itch.io/';">Itch.io</button></div>
+  <div align="left"><button class="theme-button" onclick="window.location.href='https://www.linkedin.com/in/ferenc-gozony-766094217';">LinkedIn</button></div>
+</div>
+<!-- <button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">Artstation</button> -->
 
 
 <br><br><br>
