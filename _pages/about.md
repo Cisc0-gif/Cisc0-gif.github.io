@@ -57,7 +57,7 @@ social: true # includes social icons at the bottom of the page
   <br>
 </div>
 <h2><strong>Convergence</strong></h2>
-<h5><strong>Art / Sound / Design</strong> | Unity</h5>
+<h5><strong class="highlight-text">Art / Sound / Design</strong> <strong>|</strong> Unity</h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
 <p></p>
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
@@ -68,7 +68,7 @@ social: true # includes social icons at the bottom of the page
 <br>
 <br>
 <h2><strong>Project: Ether</strong></h2>
-<h5><strong>3D Model Rigging</strong> | Unreal 5</h5>
+<h5><strong class="highlight-text">3D Model Rigging</strong> <strong>|</strong> Unreal 5</h5>
 <!-- <h5>May 2024 | Unreal 5 | Team size: 40</h5>
 <p></p>
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
@@ -79,7 +79,7 @@ social: true # includes social icons at the bottom of the page
 <br>
 <br>
 <h2><strong>VFX Shaders Demo</strong></h2>
-<h5><strong>Art / Design / 3D Modeling</strong> | Unity</h5>
+<h5><strong class="highlight-text">Art / Design / 3D Modeling</strong> <strong>|</strong> Unity</h5>
 <!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
 <hr style="height:5pt; visibility:hidden;" />
 <a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img width="100%" src="assets/img/convergence_assets/convergencetest_01.png"></a>

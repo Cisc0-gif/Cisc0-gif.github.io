@@ -2,18 +2,21 @@
   --button-bg: #4CAF50;
   --button-text: white;
   --button-hover-bg: #45a049;
+  --highlight-text: #B509AC;
 }
 
 [data-theme="dark"] {
   --button-bg: #2698BA;
   --button-text: #1C1C1D;
   --button-hover-bg: #E8E8E8;
+  --highlight-text: #2698BA;
 }
 
 [data-theme="light"] {
   --button-bg: #B509AC;
   --button-text: #E8E8E8;
   --button-hover-bg:#1C1C1D;
+  --highlight-text: #B509AC;
 }
 
 .theme-button {
@@ -33,6 +36,10 @@
 
 .theme-button:hover {
   background-color: var(--button-hover-bg);
+}
+
+.highlight-text {
+	color: var(--highlight-text);
 }
 
 img:hover {
