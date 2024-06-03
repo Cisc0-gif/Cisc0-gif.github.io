@@ -36,7 +36,7 @@ social: true # includes social icons at the bottom of the page
 <p>I plan to graduate in Spring of 2025.</p>
 -->
 <div style="display: flex; justify-content: flex-start; gap: 10px;">
-  <div align="left"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">Artstation</button></div>
+  <div align="left"><button class="theme-button" onclick="window.location.href='https://www.artstation.com/fergo310';">Artstation</button></div>
   <div align="left"><button class="theme-button" onclick="window.location.href='https://fergo310.itch.io/';">Itch.io</button></div>
   <div align="left"><button class="theme-button" onclick="window.location.href='https://www.linkedin.com/in/ferenc-gozony-766094217';">LinkedIn</button></div>
 </div>
