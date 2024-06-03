@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grassy Plains Shader Demo
+title: VFX Shader Demo
 description: Prototype scene created with various shaders
 img: assets/img/project_08/shader_demo_screenshot.png
 importance: 3
