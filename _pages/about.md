@@ -82,7 +82,8 @@ social: true # includes social icons at the bottom of the page
 <h5><strong class="highlight-text">Art / Design / 3D Modeling</strong> <strong>|</strong> Unity</h5>
 <!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
 <hr style="height:5pt; visibility:hidden;" />
-<a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img width="100%" src="assets/img/project_08/Image Sequence_005_0000.png"></a>
+<!-- <a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img width="100%" src="assets/img/project_08/Image Sequence_005_0000.png"></a> -->
+<div align="center"><iframe width="100%" height="350" src="https://www.youtube.com/embed/NQFwHyNttlo?si=MTZ5PVpDfmt3c4Lq" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 <br>
 <br>
 <div align="center"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">More Projects</button></div>
