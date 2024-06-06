@@ -379,14 +379,14 @@ ul.task-list input[type="checkbox"] {
 // Social (bottom)
 
 .social {
-  text-align: left;
+  text-align: center;
 
   .contact-icons {
-    font-size: 3rem;
+    font-size: 4rem;
 
     a {
       i::before {
-        color: var(--global-theme-color);
+        color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
       }
 
