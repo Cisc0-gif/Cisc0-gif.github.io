@@ -31,9 +31,8 @@ social: true # includes social icons at the bottom of the page
 <h1><strong>Ferenc</strong> Gozony</h1>
 <p><strong>Experienced Visual Designer with a background in Graphic Design, Computer Science, and Game Development.</strong></p>
 <hr style="height:5pt; visibility:hidden;" />
-<hr style="height:5pt; visibility:hidden;" />
 <div class="social">
-<div class="contact-icons"> <a href="mailto:%66%65%72%67%6F%33%31%30@%79%61%68%6F%6F.%63%6F%6D" title="email"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a> <a href="https://github.com/Cisc0-gif" title="GitHub" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-github" aria-hidden="true"></i></a> <a href="https://www.linkedin.com/in/ferenc-gozony-766094217" title="LinkedIn" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a> <a href="https://twitter.com/Fergo310" title="X" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i></a> <a href="https://fergo310.itch.io/" title="Work" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-itch-io" aria-hidden="true"></i></a> </div>
+<div class="contact-icons">{% include social.liquid %}</div>
 </div>
 <!--
 <p>Currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies.</p>
@@ -49,7 +48,7 @@ social: true # includes social icons at the bottom of the page
 <!-- <button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">Artstation</button> -->
 
 
-<br><br>
+<br><br><br>
 <!-- <h1>Games</h1> <hr> -->
 <div class="desktop-only">
   <hr>
