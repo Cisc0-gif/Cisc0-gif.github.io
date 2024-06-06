@@ -31,19 +31,25 @@ social: true # includes social icons at the bottom of the page
 <h1><strong>Ferenc</strong> Gozony</h1>
 <p><strong>Experienced Visual Designer with a background in Graphic Design, Computer Science, and Game Development.</strong></p>
 <hr style="height:5pt; visibility:hidden;" />
+<hr style="height:5pt; visibility:hidden;" />
+<div class="social">
+<div class="contact-icons"> <a href="mailto:%66%65%72%67%6F%33%31%30@%79%61%68%6F%6F.%63%6F%6D" title="email"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a> <a href="https://github.com/Cisc0-gif" title="GitHub" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-github" aria-hidden="true"></i></a> <a href="https://www.linkedin.com/in/ferenc-gozony-766094217" title="LinkedIn" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a> <a href="https://twitter.com/Fergo310" title="X" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i></a> <a href="https://fergo310.itch.io/" title="Work" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-itch-io" aria-hidden="true"></i></a> </div>
+</div>
 <!--
 <p>Currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies.</p>
 <p>I plan to graduate in Spring of 2025.</p>
 -->
+<!--
 <div style="display: flex; justify-content: flex-start; gap: 10px;">
   <div align="left"><button class="theme-button" onclick="window.location.href='https://www.artstation.com/fergo310';">Artstation</button></div>
   <div align="left"><button class="theme-button" onclick="window.location.href='https://fergo310.itch.io/';">Itch.io</button></div>
   <div align="left"><button class="theme-button" onclick="window.location.href='https://www.linkedin.com/in/ferenc-gozony-766094217';">LinkedIn</button></div>
 </div>
+-->
 <!-- <button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">Artstation</button> -->
 
 
-<br><br><br>
+<br><br>
 <!-- <h1>Games</h1> <hr> -->
 <div class="desktop-only">
   <hr>
@@ -84,6 +90,7 @@ social: true # includes social icons at the bottom of the page
 <!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
 <hr style="height:5pt; visibility:hidden;" />
 <a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img width="100%" src="assets/img/project_08/Image Sequence_005_0000.png"></a>
+<br>
 <br>
 <br>
 <div align="center"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">More Projects</button></div>

@@ -3,7 +3,7 @@ layout: page
 title: Papers
 permalink: /papers/
 description: Design Docs, Essays, and Articles
-nav: true
+nav: false
 nav_order: 2
 display_categories: 
 horizontal: false

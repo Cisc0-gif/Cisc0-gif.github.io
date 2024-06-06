@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: Repositories
+title: Repos
 description: Small-scale projects, code samples, and scripts
 nav: true
 nav_order: 3
