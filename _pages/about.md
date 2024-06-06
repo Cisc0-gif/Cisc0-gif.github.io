@@ -35,7 +35,7 @@ social: true # includes social icons at the bottom of the page
 <div class="contact-icons">{% include social.liquid %}</div>
 </div>
 <!--
-<p>Currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies.</p>
+<p>Currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies</p>
 <p>I plan to graduate in Spring of 2025.</p>
 -->
 <!--
