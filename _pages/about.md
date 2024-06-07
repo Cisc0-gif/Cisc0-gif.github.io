@@ -68,7 +68,7 @@ social: true # includes social icons at the bottom of the page
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
 -->
 <hr style="height:5pt; visibility:hidden;" />
-<a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img width="100%" src="assets/img/convergence_assets/Image Sequence_013_0000.png"></a>
+<a href="{{ site.url }}{{ site.baseurl }}/projects/13_project/"><img width="100%" src="assets/img/convergence_assets/Image Sequence_013_0000.png"></a>
 <br>
 <br>
 <br>
