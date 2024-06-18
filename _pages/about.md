@@ -61,6 +61,7 @@ social: true # includes social icons at the bottom of the page
   <br>
   <br>
 </div>
+
 <h2><strong>Convergence</strong></h2>
 <h5>2024 | Unity | <strong class="highlight-text">Art / Sound / Design</strong></h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
@@ -68,10 +69,24 @@ social: true # includes social icons at the bottom of the page
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
 -->
 <hr style="height:5pt; visibility:hidden;" />
-<a href="{{ site.url }}{{ site.baseurl }}/projects/13_project/"><img width="100%" src="assets/img/convergence_assets/Image Sequence_013_0000.png"></a>
-<br>
-<br>
-<br>
+
+<script>
+	function hover() {
+	  document.getElementById("cover-one").src = "assets/img/convergence_assets/hover.gif";
+	}
+	function out() {
+	  document.getElementById("cover-one").src = "assets/img/convergence_assets/Image Sequence_013_0000.png";
+	}
+	
+	function hover2() {
+	  document.getElementById("cover-two").src = "assets/img/project_08/hover.gif";
+	}
+	function out2() {
+	  document.getElementById("cover-two").src = "assets/img/project_08/Image Sequence_005_0000.png";
+	}
+</script>
+<a href="{{ site.url }}{{ site.baseurl }}/projects/13_project/"><img id="cover-one" width="100%" onmouseover="hover()" onmouseout="out()" src="assets/img/convergence_assets/Image Sequence_013_0000.png"></a>
+<br><br><br>
 <h2><strong>Project: Ether</strong></h2>
 <h5>2024 | Unreal 5 | <strong class="highlight-text">3D Model Rigging</strong></h5>
 <!-- <h5>May 2024 | Unreal 5 | Team size: 40</h5>
@@ -81,17 +96,13 @@ social: true # includes social icons at the bottom of the page
 <hr style="height:5pt; visibility:hidden;" />
 <div align="center"><iframe width="100%" height="350" src="https://www.youtube.com/embed/NQFwHyNttlo?si=MTZ5PVpDfmt3c4Lq" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 <!-- <a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img width="100%" src="assets/img/convergence_assets/convergencetest_01.png"></a> -->
-<br>
-<br>
-<br>
+<br><br><br>
 <h2><strong>VFX Shaders Demo</strong></h2>
 <h5>2022 | Unity | <strong class="highlight-text">Art / Design / 3D Modeling</strong></h5>
 <!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
 <hr style="height:5pt; visibility:hidden;" />
-<a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img width="100%" src="assets/img/project_08/Image Sequence_005_0000.png"></a>
-<br>
-<br>
-<br>
+<a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img id="cover-two" width="100%" onmouseover="hover2()" onmouseout="out2()" src="assets/img/project_08/Image Sequence_005_0000.png"></a>
+<br><br><br>
 <div align="center"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">More Projects</button></div>
 <br>
 

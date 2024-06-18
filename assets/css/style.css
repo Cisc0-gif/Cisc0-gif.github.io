@@ -42,6 +42,10 @@
 	color: var(--highlight-text);
 }
 
+.software-icons {
+	box-sizing: border-box;
+}
+
 img:hover {
 	filter: brightness(90%);
 }

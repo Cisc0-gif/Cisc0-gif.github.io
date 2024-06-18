@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Convergence
-description: Atmospheric 2D game
+description: Atmospheric free-for-all in a real-time gravity sim
 img: assets/img/convergence_assets/Image Sequence_013_0000.png
 importance: 1
 category: games
