@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 {% assign sorted_projects = site.projects | sort: "importance" %}
-{% assign target_categories = "design docs,essays,articles" | split: "," %}
+{% assign target_categories = "design docs,essays,articles,art" | split: "," %}
 
   <!-- Generate cards for each project -->
 
