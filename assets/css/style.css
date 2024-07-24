@@ -8,13 +8,13 @@
 [data-theme="dark"] {
   --button-bg: #2698BA;
   --button-text: #1C1C1D;
-  --button-hover-bg: #E8E8E8;
+  --button-hover-bg: white;
   --highlight-text: #2698BA;
 }
 
 [data-theme="light"] {
   --button-bg: #B509AC;
-  --button-text: #E8E8E8;
+  --button-text: white;
   --button-hover-bg:#1C1C1D;
   --highlight-text: #B509AC;
 }
