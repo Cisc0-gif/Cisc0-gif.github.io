@@ -6,7 +6,7 @@
     "email": "fergo310@yahoo.com",
     "phone": "(949) 243-2496",
     "url": "https://cisc0-gif.github.io",
-    "summary": "Artist looking to push the bounds of what's been done.",
+    "summary": "Adaptable Visual Designer, Artist, and Programmer.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,7 +30,7 @@
 	  "startDate": "2024-06-01",
 	  "endDate": "2025-06-01",
 	  "summary": "2D and 3D character design and animation working in Paint Tool SAI and Blender. As this game is still in development, I am unable to release further information.",
-	  "highlights": ["Paint Tool SAI", "Blender", "2D/3D Modeling"]
+	  "highlights": ["Krita", "Blender", "2D/3D Modeling"]
 	},
 	{
 	  "name": "Convergence (Game)",
@@ -109,7 +109,8 @@
 		"GIMP (2 years)",
 		"Aseprite (2 years)",
 		"Paint Tool SAI (1 year)",
-		"WordPress (1 year)"
+		"WordPress (1 year)",
+		"Krita (1 year)"
       ]
     },
     {
