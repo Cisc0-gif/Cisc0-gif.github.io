@@ -20,43 +20,44 @@ images:
 </swiper-container>
 
 <br>
-<h2>Concept</h2>
-Convergence began as a small gravity prototype developed by my friend <a href="https://piggytek.com/main/">Eric Patrick</a> in his spare time. He saw its potential, and decided to pitch it to our school's Video Game Development Club where he recruited the help of narrative designer <a href="https://www.linkedin.com/in/adhi-kona-46b663258/">Adhi Kona</a> and experienced programmer <a href="https://davidlh123.itch.io/">David Huynh</a>.
+<h2>Contributions</h2>
+Towards the end of this Capstone group's development window, they were still experiencing a lot of animation bugs and their main 3D animator had just taken leave. Luckily, through a mutual friend who was heavily involved in the game's systems programming, I was brought along and was able to resolve many of these issues over the course of 2 weeks.
+A quick summary of my work involved:
+<ul>
+<li>Debug critical animation, movement, and texture bugs with models</li>
+<li>Debugged Animation Montage triggers</li>
+<li>Smoothed out AnimGraph states</li>
+<li>Fixed faulty render textures produced from Blender to Unreal pipeline</li>
+</ul>
+While I worked, I also kept a list of changes I pushed to Perforce to report to my team lead (see below).
+<ul>
+<strong>04/06/2024 6:19 PM</strong>
+<li>Added EtherOn and EtherOff anims</li>
+<li>Fixed logic in AnimGraph -> Locomotion</li>
+<li>Created "Disable Ether" function in BP_ThirdPersonCharacter - > "Ether Functionality" to trigger when Energy depletes to 0 (so game doesn't hang anymore)"</li>
+<br>
+<strong>04/10/2024 2:00 AM</strong>
+<li>zoomed out cam and aimed it down to show full model</li>
+<li>implemented couch_walk_idle anim</li>
+<li>set AM_Zhay_HexShoot slot to UpperbodySlot so it only blends the upperbody</li>
+<br>
+<strong>04/10/2024 11:43 PM</strong>
+<li>Added 0.6 Delay before "Set Dying" in Guard EventGraph and removed link between "Takedown" and "Dead" states in "GuardBotAnimBP", which fixed Takedown timing and overshooting "Takedown" state</li>
+<li>Reimported Zhay_Takedown with -90 rotation as "Zhay_Takedown_Fixed" to rotated animation</li>
+<li>Set "Ether" bool as deciding condition in "On Component Begin Overlap (Sight") event, since "Hex Toggle" var wasn't working</li>
+<li>Moved "Enable Input" to play after 2nd Delay in Event Interface Interact and set Delay to "1.5" seconds for timing</li>
+<li>Fixed Guards idle walking by adding an "Idle" state to GuardBotAnimBP, which triggers when not moving</li>
+<li>Created "isStunned" bool in Guard EventGraph, which is set to true when "Stun Guard" is called and set to false after Event Interface Interact is called. This is checked when "On Component Begin Overlap (AttackHurtbox)" is triggered and is a condition of attacking, elimnating the event of a player stunning a Guard and still getting attacked.</li>
+<br>
+<strong>04/20/2024 7:24 PM</strong>
+<li>Fixed dead Guard models being rotated when Ether Off by creating If/Branch conditional in "Look In Direction" section of Guard EventGraph</li>
+<li>Fixed Guard moonwalk by skipping "Set Actor Rotation" in "Scan" MotionWarp</li>
+</ul>
+<br>
+
+<h2>Demo Video</h2>
+<div align="center"><iframe width="100%" height="350" src="https://www.youtube.com/embed/GlWbBLLwht4?si=682XQCs_byLhUmOr" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <br>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/sZrK8oXEFe8?si=WZLmy062CnhaJ-Cq" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<br>
-<h2>Mockups</h2>
-Early on, I began collecting references from space documentaries and tv shows, and began concepting atmospheric fog and various other effects using Particle Systems which eventually became the cloudy fog you see in the background today. This drove the basis for the concepts you see below.
-
-<br>
-<swiper-container keyboard="true" scrollbar="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/Mockup_240428_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/Mockup_240429_07.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/Pause_Mockup_240429_08.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
-<br>
-
-Once I established a simplistic art style which we all felt could maintain a beautiful composition on screen in the many different arrangments that these sprites would be in (due to the physics-based randomness the gravity mechanic introduced), I began to really hone in on improving the planetary sprites to not be too eye-catching, while also conveying necessary information to players and serving their diegetic purpose to drive gameplay.
-
-<br>
-<swiper-container keyboard="true" scrollbar="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/Icons_Draft_02_240429.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/Icons_240513.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/Icons_240513_03_Refs.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
-<br>
-
-<h2>Polish</h2>
-While all assets only took about the first 3 weeks to make, the rest of development was spent implementing various UI systems, creating and polishing the various VFX throughout the game, and messing with a lot of differnet render values to see how we could maintain a beautiful visual style at various render distances throughout the progression of the game.
-
-<br>
-<swiper-container keyboard="true" scrollbar="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/Image Sequence_036_0000.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/Image Sequence_034_0000.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
-<br>
-<br>
-<div align="center"><button class="theme-button" onclick="window.location.href='https://thepigguy.itch.io/convergence';">View Itch Page</button></div>
+<div align="center"><button class="theme-button" onclick="window.location.href='https://pjheric.itch.io/project-ether';">View Itch Page</button></div>
 <br>
