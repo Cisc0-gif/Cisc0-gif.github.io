@@ -72,7 +72,7 @@ social: true # includes social icons at the bottom of the page
 
 <script>
 	function hover3() {
-	  document.getElementById("cover-three").src = "assets/img/convergence_assets/hover.gif";
+	  document.getElementById("cover-three").src = "assets/img/Chronomancy_assets/Chronomancy_Q1_Demo_241215.gif";
 	}
 	function out3() {
 	  document.getElementById("cover-three").src = "assets/img/Chronomancy_assets/Chronomancy_TitleCard_241215.png";
