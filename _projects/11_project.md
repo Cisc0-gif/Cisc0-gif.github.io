@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Physics Shader Demo
-description: Cloth and "Jelly" Physics Shaders
+description: Cloth and Soft-Body Physics Shaders
 img: assets/img/project_09/physics_demo_screenshot.png
 importance: 4
 category: prototypes

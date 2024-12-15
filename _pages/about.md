@@ -62,6 +62,25 @@ social: true # includes social icons at the bottom of the page
   <br>
 </div>
 
+<h2><strong>Chronomancy</strong></h2>
+<h5>2024 | Unreal 5 | <strong class="highlight-text">Concept Art / Environment / Level Design</strong></h5>
+<!-- <h5>May 2024 | Unity | Team size: 5</h5>
+<p></p>
+<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
+-->
+<hr style="height:5pt; visibility:hidden;" />
+
+<script>
+	function hover3() {
+	  document.getElementById("cover-three").src = "assets/img/convergence_assets/hover.gif";
+	}
+	function out3() {
+	  document.getElementById("cover-three").src = "assets/img/Chronomancy_assets/Chronomancy_TitleCard_241215.png";
+	}
+</script>
+<a href="{{ site.url }}{{ site.baseurl }}/projects/23_project/"><img id="cover-three" width="100%" onmouseover="hover3()" onmouseout="out3()" src="assets/img/Chronomancy_assets/Chronomancy_TitleCard_241215.png"></a>
+<br><br><br>
+
 <h2><strong>Convergence</strong></h2>
 <h5>2024 | Unity | <strong class="highlight-text">Art / Sound / Design</strong></h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
@@ -103,9 +122,11 @@ social: true # includes social icons at the bottom of the page
 <!-- <div align="center"><iframe width="100%" height="350" src="https://www.youtube.com/embed/NQFwHyNttlo?si=MTZ5PVpDfmt3c4Lq" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div> -->
 <!-- <a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img width="100%" src="assets/img/convergence_assets/convergencetest_01.png"></a> -->
 
-<h2><strong>VFX Shaders Demo</strong></h2>
+<!-- <h2><strong>VFX Shaders Demo</strong></h2>
 <h5>2022 | Unity | <strong class="highlight-text">Art / Design / 3D Modeling</strong></h5>
+-->
 <!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
+<!--
 <hr style="height:5pt; visibility:hidden;" />
 <script>
 	function hover3() {
@@ -117,6 +138,8 @@ social: true # includes social icons at the bottom of the page
 </script>
 <a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img id="cover-three" width="100%" onmouseover="hover3()" onmouseout="out3()" src="assets/img/project_08/Image Sequence_001_0000.png"></a>
 <br><br><br>
+-->
+
 <div align="center"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">More Projects</button></div>
 <br>
 
