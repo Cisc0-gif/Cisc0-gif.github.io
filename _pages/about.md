@@ -75,10 +75,10 @@ social: true # includes social icons at the bottom of the page
 	  document.getElementById("cover-three").src = "assets/img/Chronomancy_assets/Chronomancy_Q1_Demo_241215.gif";
 	}
 	function out3() {
-	  document.getElementById("cover-three").src = "assets/img/Chronomancy_assets/Chronomancy_TitleCard_241215.png";
+	  document.getElementById("cover-three").src = "assets/img/Chronomancy_assets/Chronomancy_Title_241215.png";
 	}
 </script>
-<a href="{{ site.url }}{{ site.baseurl }}/projects/23_project/"><img id="cover-three" width="100%" onmouseover="hover3()" onmouseout="out3()" src="assets/img/Chronomancy_assets/Chronomancy_TitleCard_241215.png"></a>
+<a href="{{ site.url }}{{ site.baseurl }}/projects/23_project/"><img id="cover-three" width="100%" onmouseover="hover3()" onmouseout="out3()" src="assets/img/Chronomancy_assets/Chronomancy_Title_241215.png"></a>
 <br><br><br>
 
 <h2><strong>Convergence</strong></h2>
