@@ -2,7 +2,7 @@
 layout: page
 title: Chronomancy
 description: Capstone roguelike with immersive casting mechanics
-img: assets/img/Chronomancy_assets/Chronomancy_Title_241215.png
+img: assets/img/Chronomancy_assets/Chronomancy_TitleCard_241215.png
 importance: 0
 category: games
 images:
