@@ -18,6 +18,7 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
+	gem 'observer'
 end
 group :other_plugins do
     gem 'feedjira'

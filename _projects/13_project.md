@@ -14,9 +14,9 @@ images:
 A 2D physics-based game created over 10 short weeks with a small team of 5 people.
 
 <swiper-container keyboard="true" scrollbar="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/Image Sequence_038_0000.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/Image Sequence_041_0000.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/image-0004.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 <br>
@@ -52,9 +52,9 @@ While all assets only took about the first 3 weeks to make, the rest of developm
 
 <br>
 <swiper-container keyboard="true" scrollbar="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/convergencetest_01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/Image Sequence_036_0000.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/Image Sequence_034_0000.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/convergence_assets/image-0004.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 <br>
 <br>
