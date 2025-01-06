@@ -131,14 +131,14 @@ social: true # includes social icons at the bottom of the page
 <!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
 <hr style="height:5pt; visibility:hidden;" />
 <script>
-	function hover3() {
-	  document.getElementById("cover-three").src = "assets/img/project_08/hover.gif";
+	function hover2() {
+	  document.getElementById("cover-two").src = "assets/img/project_08/hover.gif";
 	}
-	function out3() {
-	  document.getElementById("cover-three").src = "assets/img/project_08/Image Sequence_001_0000.png";
+	function out2() {
+	  document.getElementById("cover-two").src = "assets/img/project_08/Image Sequence_001_0000.png";
 	}
 </script>
-<a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img id="cover-three" width="100%" onmouseover="hover3()" onmouseout="out3()" src="assets/img/project_08/Image Sequence_001_0000.png"></a>
+<a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img id="cover-two" width="100%" onmouseover="hover2()" onmouseout="out2()" src="assets/img/project_08/Image Sequence_001_0000.png"></a>
 <br><br><br>
 
 <div align="center"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">More Projects</button></div>
