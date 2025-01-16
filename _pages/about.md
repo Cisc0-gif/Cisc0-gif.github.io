@@ -28,8 +28,8 @@ social: true # includes social icons at the bottom of the page
 <br>
 <br>
 <br>
-<h1><strong>Ferenc</strong> Gozony</h1>
-<p><strong>Experienced Visual Designer with a background in Graphic Design, Computer Science, and Game Development.</strong></p>
+<h1><strong>Ferenc Gozony</strong></h1>
+<p>Experienced Visual Designer with a background in <strong>Graphic Design</strong>, <strong>Computer Science</strong>, and <strong>Game Development</strong>.</p>
 <hr style="height:5pt; visibility:hidden;" />
 <div class="social">
 <div class="contact-icons">{% include social.liquid %}</div>

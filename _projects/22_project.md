@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Ether
-description: Capstone game featuring stealth and a diverse narrative
+description: 3rd-person stealth game using AnimGraph, Animation Montages, and Blendspaces
 img: assets/img/ether_assets/pe_titlecard.png
 importance: 2
 category: games

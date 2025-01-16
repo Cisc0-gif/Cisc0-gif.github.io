@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description: Games, Prototypes, and Websites
+title: UI/UX
+permalink: /ui/
+description:
 nav: true
-nav_order: 1
+nav_order: 2
 display_categories: 
 horizontal: false
 ---
-<!-- [games, prototypes, websites] -->
+<!-- [websites] -->
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 {% assign sorted_projects = site.projects | sort: "importance" %}
-{% assign target_categories = "design docs,essays,articles,art" | split: "," %}
+{% assign target_categories = "design docs,essays,articles,art,games,prototypes" | split: "," %}
 
   <!-- Generate cards for each project -->
 

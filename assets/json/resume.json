@@ -25,12 +25,12 @@
   "work": [
 	{
 	  "name": "BranchOut, Inc.",
-	  "position": "UI/UX Design Intern",
+	  "position": "Lead UI/UX Design Intern",
 	  "url": "https://www.branchout.app/",
 	  "startDate": "2024-09-01",
 	  "endDate": "",
-	  "summary": "Working in Figma, I assist in creating UI prototypes for our Mobile App team. I also work in Marketing to create social media advertisements.",
-	  "highlights": ["Figma", "Illustrator", "Canva"]
+	  "summary": "As Lead UI Designer, alongside designing UI prototypes for our Mobile App department, I assist in gathering feedback in User Interviews, organizing department meetings, and coordinating with fellow designers.",
+	  "highlights": ["Figma", "Illustrator", "Canva", "Slack", "Google Meet"]
 	},
 	{
 	  "name": "Chronomancy (Game)",
@@ -38,8 +38,8 @@
 	  "url": "https://cisc0-gif.github.io/projects/23_project",
 	  "startDate": "2024-06-01",
 	  "endDate": "",
-	  "summary": "Acting as Lead Visual Designer, I created character and environment concept art to capture our game's visual style, which was used as refernce material for the art and sound team I oversee (6 people). Additionally, I also developed level designs for our procedurally generated room system, setup our Perforce server, and created a Discord bot to operate it remotely and report commits.",
-	  "highlights": ["Blender", "Unreal 5", "Perforce", "Python"]
+	  "summary": "Acting as Lead Visual Designer, I created character and environment concept art to capture our game's visual style, which was used as reference material for the art and sound team I oversee (6 people). Additionally, I also developed level designs for our procedurally generated room system, setup our Perforce server, and created a Discord bot to operate it remotely and report commits.",
+	  "highlights": ["Blender", "Unreal 5", "Perforce", "Python", "Airtable", "Krita"]
 	},
 	{
 	  "name": "Gozony Legal Nurse Consulting",
@@ -47,7 +47,7 @@
 	  "url": "https://www.gozonylnc.com/",
 	  "startDate": "2024-01-01",
 	  "endDate": "2024-09-01",
-	  "summary": "Helping my mom startup her new business, I prepared case files, invoiced clients and documented receipts on Quickbooks, created logos, business cards, labels, and Word templates, as well as a custom website in Wix.",
+	  "summary": "Assisting in file organization, billing, and advertisement, I prepared case files, invoiced clients and documented receipts on Quickbooks, and created logos, business cards, labels and Word templates, as well as a custom website in Wix (www.gozonylnc.com).",
 	  "highlights": ["Illustrator", "Wix", "Screen Printing"]
 	},
 	{
@@ -138,12 +138,16 @@
       "icon": "fa-solid fa-circle",
       "keywords": [
 		"Unreal 5 (1 year)",
-		"Perforce Helix Core (1 year)",
 		"Unity (3 years)",
-		"Blender (2 years)",
 		"Git/GitHub (4 years)",
-        "GameMaker (3 years)",
-        "Visual Studio (2 years)",
+		"Perforce Helix Core (1 year)",
+		"GameMaker (3 years)",
+		"Airtable (1 year)",
+		"Visual Studio (2 years)",
+		"Blender (2 years)",
+		"Rigging + Animation (1 year)",
+		"UI/UX Design (3 years)",
+		"2D Illustration (2 years)",
 		"Audacity (3 years)"
       ]
     },
@@ -178,7 +182,7 @@
 	{
       "name": "Christina Bartel",
       "icon": "",
-      "reference": "Supervisor during my time at Gozony Legal Nurse Consulting"
+      "reference": "Supervisor at Gozony Legal Nurse Consulting"
     },
     {
       "name": "James Hollifield",

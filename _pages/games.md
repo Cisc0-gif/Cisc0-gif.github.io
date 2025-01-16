@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Art
-permalink: /artwork/
-description:
+title: Games
+permalink: /projects/
+description: 
 nav: true
-nav_order: 3
+nav_order: 1
 display_categories: 
 horizontal: false
 ---
-<!-- [design docs, essays, articles] -->
+<!-- [games, prototypes, websites] -->
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
@@ -31,7 +31,7 @@ horizontal: false
   {% else %}
   <div class="grid">
     {% for project in sorted_projects %}
-      {% include art.liquid %}
+      {% include projects.liquid %}
     {% endfor %}
   </div>
   {% endif %}
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 {% assign sorted_projects = site.projects | sort: "importance" %}
-{% assign target_categories = "design docs,essays,articles,games,prototypes,websites" | split: "," %}
+{% assign target_categories = "design docs,essays,articles,art,websites" | split: "," %}
 
   <!-- Generate cards for each project -->
 
@@ -72,7 +72,7 @@ horizontal: false
         {% endif %}
       {% endfor %}
       {% unless exclude %}
-        {% include art.liquid %}
+        {% include projects.liquid %}
       {% endunless %}
     {% endfor %}
   </div>
