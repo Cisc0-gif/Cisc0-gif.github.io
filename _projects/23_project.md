@@ -44,7 +44,7 @@ Some early concepts of our enemy creatures, the <strong>Dolavok</strong>.
 A sample of room layout concepts I made, particularly highlighting the use of verticality and light to both dress and guide players.
 <swiper-container keyboard="true" scrollbar="true" rewind="true">
   <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/Chronomancy_assets/econcept_01.png" class="img-fluid rounded z-depth-1" width="65%" align="center" %}</swiper-slide>
-  <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/Chronomancy_assets/econcept_02.png" class="img-fluid rounded z-depth-1" width="50%" align="center" %}</swiper-slide>
+  <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/Chronomancy_assets/econcept_04.png" class="img-fluid rounded z-depth-1" width="50%" align="center" %}</swiper-slide>
   <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/Chronomancy_assets/hallway_concept.png" class="img-fluid rounded z-depth-1" width="87%" align="center" %}</swiper-slide>
   <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/Chronomancy_assets/door_concept.png" class="img-fluid rounded z-depth-1" width="87%" align="center" %}</swiper-slide>
 </swiper-container>
