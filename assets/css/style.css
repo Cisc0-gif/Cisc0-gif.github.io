@@ -6,10 +6,10 @@
 }
 
 [data-theme="dark"] {
-  --button-bg: #2698BA;
+  --button-bg: #29d638;
   --button-text: #1C1C1D;
   --button-hover-bg: white;
-  --highlight-text: #2698BA;
+  --highlight-text: #29d638;
 }
 
 [data-theme="light"] {
