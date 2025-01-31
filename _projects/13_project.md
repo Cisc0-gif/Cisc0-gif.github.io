@@ -92,6 +92,6 @@ Convergence began as a small gravity prototype developed by my friend <a href="h
 <br>
 <h3 style="margin-left: 25px;">Convention Booth</h3>
 <br>
-<img style="margin-left: 25px;" src="../../assets/img/convergence_assets/20240603_130551.jpg" width="100%">
-<div style="margin-left: 25px;" class="caption">Me getting those display colors juuuuusssst right.</div>
+<img src="../../assets/img/convergence_assets/20240603_130551.jpg" width="100%">
+<div class="caption">Me getting those display colors juuuuusssst right.</div>
 <br>
