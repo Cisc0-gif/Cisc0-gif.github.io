@@ -2,7 +2,7 @@
   --button-bg: #4CAF50;
   --button-text: white;
   --button-hover-bg: #45a049;
-  --highlight-text: #B509AC;
+  --highlight-text: #7947f9;
 }
 
 [data-theme="dark"] {
@@ -13,10 +13,10 @@
 }
 
 [data-theme="light"] {
-  --button-bg: #B509AC;
+  --button-bg: #7947f9;
   --button-text: white;
   --button-hover-bg:#1C1C1D;
-  --highlight-text: #B509AC;
+  --highlight-text: #7947f9;
 }
 
 .theme-button {

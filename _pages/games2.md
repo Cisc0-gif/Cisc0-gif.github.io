@@ -1,58 +1,14 @@
 ---
-layout: about
-title: About
-permalink: /
-subtitle: 
-images:
-  slider: true 
-css: >
-  h1.page-title {
-    display: none;
-  }
-
-profile:
-  align: right
-  image: cover_photo.png
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p></p>
-    <p></p>
-    <p></p>
-
-news: false # includes a list of news items
-latest_posts: false # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+layout: page
+title: Games
+permalink: /projects/
+description: 
+nav: true
+nav_order: 1
+display_categories: 
+horizontal: false
 ---
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-<br>
-<br>
-<br>
-<h1><strong>Ferenc Gozony</strong></h1>
-<p>Experienced <strong>World Designer</strong> with a background in Graphic Design, Computer Science, and Game Development.</p>
-<hr style="height:5pt; visibility:hidden;" />
-<div class="social">
-<div class="contact-icons">{% include social.liquid %}</div>
-</div>
-<!--
-<p>Currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies</p>
-<p>I plan to graduate in Spring of 2025.</p>
--->
-<!--
-<div style="display: flex; justify-content: flex-start; gap: 10px;">
-  <div align="left"><button class="theme-button" onclick="window.location.href='https://www.artstation.com/fergo310';">Artstation</button></div>
-  <div align="left"><button class="theme-button" onclick="window.location.href='https://fergo310.itch.io/';">Itch.io</button></div>
-  <div align="left"><button class="theme-button" onclick="window.location.href='https://www.linkedin.com/in/ferenc-gozony-766094217';">LinkedIn</button></div>
-</div>
--->
-<!-- <button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">Artstation</button> -->
-
-
-<br><br><br><br>
-<!-- <h1>Games</h1> <hr> -->
-
-
-
 <h2><strong>Chronomancy</strong></h2>
 <h5>2024 | Unreal 5 | <strong class="highlight-text">Creative Director / Concept Art / Level Design</strong></h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
@@ -63,13 +19,13 @@ social: true # includes social icons at the bottom of the page
 
 <script>
 	function hover3() {
-	  document.getElementById("cover-three").src = "assets/img/Chronomancy_assets/Chronomancy_Q1_Demo_241215.gif";
+	  document.getElementById("cover-three").src = "../assets/img/Chronomancy_assets/Chronomancy_Q1_Demo_241215.gif";
 	}
 	function out3() {
-	  document.getElementById("cover-three").src = "assets/img/Chronomancy_assets/Chronomancy_TitleCard_241215.png";
+	  document.getElementById("cover-three").src = "../assets/img/Chronomancy_assets/Chronomancy_TitleCard_241215.png";
 	}
 </script>
-<a href="{{ site.url }}{{ site.baseurl }}/projects/23_project/"><img id="cover-three" width="100%" onmouseover="hover3()" onmouseout="out3()" src="assets/img/Chronomancy_assets/Chronomancy_TitleCard_241215.png"></a>
+<a href="{{ site.url }}{{ site.baseurl }}/projects/23_project/"><img id="cover-three" width="100%" onmouseover="hover3()" onmouseout="out3()" src="../assets/img/Chronomancy_assets/Chronomancy_TitleCard_241215.png"></a>
 <br><br><br><br>
 
 <h2><strong>Convergence</strong></h2>
@@ -82,13 +38,13 @@ social: true # includes social icons at the bottom of the page
 
 <script>
 	function hover() {
-	  document.getElementById("cover-one").src = "assets/img/convergence_assets/hover.gif";
+	  document.getElementById("cover-one").src = "../assets/img/convergence_assets/hover.gif";
 	}
 	function out() {
-	  document.getElementById("cover-one").src = "assets/img/convergence_assets/Image Sequence_013_0000.png";
+	  document.getElementById("cover-one").src = "../assets/img/convergence_assets/Image Sequence_013_0000.png";
 	}
 </script>
-<a href="{{ site.url }}{{ site.baseurl }}/projects/13_project/"><img id="cover-one" width="100%" onmouseover="hover()" onmouseout="out()" src="assets/img/convergence_assets/Image Sequence_013_0000.png"></a>
+<a href="{{ site.url }}{{ site.baseurl }}/projects/13_project/"><img id="cover-one" width="100%" onmouseover="hover()" onmouseout="out()" src="../assets/img/convergence_assets/Image Sequence_013_0000.png"></a>
 <br><br><br><br>
 
 
@@ -103,39 +59,59 @@ social: true # includes social icons at the bottom of the page
 
 <script>
 	function hover2() {
-	  document.getElementById("cover-two").src = "assets/img/ether_assets/pe_promo_optimized.gif";
+	  document.getElementById("cover-two").src = "../assets/img/ether_assets/pe_promo_optimized.gif";
 	}
 	function out2() {
-	  document.getElementById("cover-two").src = "assets/img/ether_assets/pe_titlecard.png";
+	  document.getElementById("cover-two").src = "../assets/img/ether_assets/pe_titlecard.png";
 	}
 </script>
-<a href="{{ site.url }}{{ site.baseurl }}/projects/22_project/"><img id="cover-two" width="100%" onmouseover="hover2()" onmouseout="out2()" src="assets/img/ether_assets/pe_titlecard.png"></a>
-<br><br><br>
+<a href="{{ site.url }}{{ site.baseurl }}/projects/22_project/"><img id="cover-two" width="100%" onmouseover="hover2()" onmouseout="out2()" src="../assets/img/ether_assets/pe_titlecard.png"></a>
+<br><br><br><br>
 
 
 <!-- <div align="center"><iframe width="100%" height="350" src="https://www.youtube.com/embed/NQFwHyNttlo?si=MTZ5PVpDfmt3c4Lq" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div> -->
 <!-- <a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img width="100%" src="assets/img/convergence_assets/convergencetest_01.png"></a> -->
 
-<!--
-<h2><strong>3D Terrain Shader Demo</strong></h2>
-<h5>2022 | Unity | <strong class="highlight-text">Art / Design / 3D Modeling</strong></h5>
--->
+
+<h2><strong>Cel-Shaded Terrain Demo</strong></h2>
+<h5>2022 | Unity | <strong class="highlight-text">Art / 3D Modeling / Technical Art</strong></h5>
+
 <!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
-<!--
+
 <hr style="height:5pt; visibility:hidden;" />
 <script>
-	function hover2() {
-	  document.getElementById("cover-two").src = "assets/img/project_08/hover.gif";
+	function hover4() {
+	  document.getElementById("cover-four").src = "../assets/img/project_08/hover.gif";
 	}
-	function out2() {
-	  document.getElementById("cover-two").src = "assets/img/project_08/Image Sequence_001_0000.png";
+	function out4() {
+	  document.getElementById("cover-four").src = "../assets/img/project_08/Image Sequence_001_0000.png";
 	}
 </script>
-<a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img id="cover-two" width="100%" onmouseover="hover2()" onmouseout="out2()" src="assets/img/project_08/Image Sequence_001_0000.png"></a>
+<a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img id="cover-four" width="100%" onmouseover="hover4()" onmouseout="out4()" src="../assets/img/project_08/Image Sequence_001_0000.png"></a>
+<br><br><br><br>
+
+<h2><strong>Physics Shader Demo</strong></h2>
+<h5>2022 | Unity | <strong class="highlight-text">3D Modeling / Technical Art</strong></h5>
+
+<!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
+
+<hr style="height:5pt; visibility:hidden;" />
+<a href="{{ site.url }}{{ site.baseurl }}/projects/11_project/"><img width="100%" src="../assets/img/project_09/physics_demo_screenshot.png"></a>
+<br><br><br><br>
+
+<h2><strong>Procedural Animation Demo</strong></h2>
+<h5>2022 | Unity | <strong class="highlight-text">3D Modeling / Animation Programmer</strong></h5>
+
+<!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
+
+<hr style="height:5pt; visibility:hidden;" />
+<a href="{{ site.url }}{{ site.baseurl }}/projects/9_project/"><img width="100%" src="../assets/img/project_07/procedural_animation_demo_screenshot.png"></a>
 <br><br><br>
--->
-<div align="center"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">More Projects</button></div>
+
+
+<div align="center"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">View UI/UX Samples</button></div>
 <br>
+
 
 <!--
 {::comment}

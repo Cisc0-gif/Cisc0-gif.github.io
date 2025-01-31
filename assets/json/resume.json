@@ -6,7 +6,7 @@
     "email": "fergo310@yahoo.com",
     "phone": "(949) 243-2496",
     "url": "https://cisc0-gif.github.io",
-    "summary": "Experienced Visual Designer with a background in Graphic Design, Computer Science, and Game Development.",
+    "summary": "Experienced World Designer with a background in Graphic Design, Computer Science, and Game Development.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -34,11 +34,11 @@
 	},
 	{
 	  "name": "Chronomancy (Game)",
-	  "position": "Lead Visual Designer",
+	  "position": "Creative Director",
 	  "url": "https://cisc0-gif.github.io/projects/23_project",
 	  "startDate": "2024-06-01",
 	  "endDate": "",
-	  "summary": "Acting as Lead Visual Designer, I created character and environment concept art to capture our game's visual style, which was used as reference material for the art and sound team I oversee (6 people). Additionally, I also developed level designs for our procedurally generated room system, setup our Perforce server, and created a Discord bot to operate it remotely and report commits.",
+	  "summary": "Acting as Lead Visual Designer, I created character and environment concept art to capture our game's visual style, which was used as reference material for the art and sound team I oversaw (6 people). Additionally, I also developed level designs for our procedurally generated room system, setup our Perforce server, and created a Discord bot to operate it remotely and report commits.",
 	  "highlights": ["Blender", "Unreal 5", "Perforce", "Python", "Airtable", "Krita"]
 	},
 	{
@@ -74,7 +74,7 @@
       "url": "https://seco-larm.com",
       "startDate": "2023-01-01",
       "endDate": "2023-12-01",
-      "summary": "Produced marketing materials including social media posts (IG, FB, TW/X, Pinterest, Reels/TikTok), web banners, advertisements, and product photos and literature. Maintained and produced an organized system of visual assets for design use.",
+      "summary": "Under mentorship of the Senior Graphic Designer, we worked to produce marketing materials including social media posts (IG, FB, TW/X, Pinterest, Reels/TikTok), web banners, advertisements, and product photos and literature, as well as maintaining an organized system of visual assets for design use.",
       "highlights": ["Illustrator", "Photoshop", "InDesign", "ConstantContact", "WordPress", "Screen Printing"]
     }
   ],

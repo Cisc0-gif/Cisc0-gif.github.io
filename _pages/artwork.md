@@ -8,6 +8,7 @@ nav_order: 3
 display_categories: 
 horizontal: false
 ---
+<br>
 <!-- [design docs, essays, articles] -->
 <!-- pages/projects.md -->
 <div class="projects">
