@@ -3,7 +3,7 @@ layout: page
 title: Art
 permalink: /artwork/
 description:
-nav: true
+nav: false
 nav_order: 3
 display_categories: 
 horizontal: false
