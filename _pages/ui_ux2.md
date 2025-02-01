@@ -27,7 +27,7 @@ horizontal: false
 <a href="{{ site.url }}{{ site.baseurl }}/projects/12_project/"><img width="100%" src="../assets/img/project_12/portfolio_site_screenshot.png"></a>
 <br><br><br>
 
-<div align="center"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">View Art Portfolio</button></div>
+<div align="center"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/artwork/';">View Art Portfolio</button></div>
 <br>
 
 
