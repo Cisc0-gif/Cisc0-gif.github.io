@@ -29,7 +29,8 @@ social: true # includes social icons at the bottom of the page
 <br>
 <br>
 <h1><strong>Ferenc Gozony</strong></h1>
-<p>Experienced <strong>World Designer</strong> with a background in Graphic Design, Computer Science, and Game Development.</p>
+<h5 class="highlight-text">Concept Art / Level Design / UI/UX</h5>
+<p>Bridging art and gameplay — designing compelling characters, immersive worlds, and unforgettable experiences</p>
 <hr style="height:5pt; visibility:hidden;" />
 <div class="social">
 <div class="contact-icons">{% include social.liquid %}</div>
@@ -54,7 +55,7 @@ social: true # includes social icons at the bottom of the page
 
 
 <h2><strong>Chronomancy</strong></h2>
-<h5>2024 | Unreal 5 | <strong class="highlight-text">Creative Director / Concept Art / Level Design</strong></h5>
+<h5>2024 | Unreal 5 | <strong class="highlight-text">Creative Lead / Concept Art / Level Design</strong></h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
 <p></p>
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
