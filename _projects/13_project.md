@@ -28,16 +28,20 @@ images:
 <hr style="height:5pt; visibility:hidden;"/>
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/QUCEfdIKsN0?si=co5m11D5SAczWX_H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+Convergence began as a small particle simulation that evolved into a planetary game focused on velocity and mass. As Lead Artist, I designed the UI, sprites, and VFX to reinforce the feeling of immensity—growing from a tiny particle to a massive planetary body—using camera scaling, sprite transitions, and a 12-stage sprite sheet that formed a dynamic, ever-changing visual experience.
+<br>
 
 <details>
 <summary class="dropdown"><strong>Read Full Development Process</strong></summary>
 <br>
 <h2>Pre-Production</h2>
-Convergence began as a small gravity prototype developed by my friend <a href="https://piggytek.com/main/">Eric Patrick</a> in his spare time. He saw its potential, and decided to pitch it to our school's Video Game Development Club where he recruited the help of narrative designer <a href="https://www.linkedin.com/in/adhi-kona-46b663258/">Adhi Kona</a> and experienced programmer <a href="https://davidlh123.itch.io/">David Huynh</a>.
+Convergence started as a small gravity particle simulation created by my friend <a href="https://piggytek.com/main/">Eric Patrick</a> in his spare time. He saw its potential, and decided to pitch it to our school's Video Game Development Club where he recruited the help of narrative designer <a href="https://www.linkedin.com/in/adhi-kona-46b663258/">Adhi Kona</a> and experienced programmer <a href="https://davidlh123.itch.io/">David Huynh</a>.
 
 <br>
+<br>
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/sZrK8oXEFe8?si=WZLmy062CnhaJ-Cq" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<br>
 <br>
 <h3 style="margin-left: 25px;">Gathering References</h3>
 <p style="margin-left: 25px;">Excited to explore the visuals of space, planetary bodies, and monumentalism through this project, I turned to Netflix documentaries such as Our Universe, Alien Worlds, and A Trip to Infinity for ideas on how to present the vastness of space within a 2D game. Not wanting to overwhelm a relatively simple game with highly detailed assets, I made the decision at this stage to design the visuals in Vector art and began experimenting with styles akin to mobile games.</p>
