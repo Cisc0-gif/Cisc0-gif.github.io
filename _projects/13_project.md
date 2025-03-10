@@ -16,6 +16,9 @@ images:
 	  align-items: center; /* Aligns items vertically */
 	  gap: 100px; /* Optional: Adds space between elements */
 	}
+	.dropdown {
+	  font-size: 18px
+	}
 </style>
 
 <div class="inline">
@@ -27,7 +30,7 @@ images:
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/QUCEfdIKsN0?si=co5m11D5SAczWX_H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <details>
-<summary><h2>Read Full Development Process</h2></summary>
+<summary class="dropdown"><strong>Read Full Development Process</strong></summary>
 <br>
 <h2>Pre-Production</h2>
 Convergence began as a small gravity prototype developed by my friend <a href="https://piggytek.com/main/">Eric Patrick</a> in his spare time. He saw its potential, and decided to pitch it to our school's Video Game Development Club where he recruited the help of narrative designer <a href="https://www.linkedin.com/in/adhi-kona-46b663258/">Adhi Kona</a> and experienced programmer <a href="https://davidlh123.itch.io/">David Huynh</a>.
