@@ -10,8 +10,22 @@ images:
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<style>
+	.inline {
+	  display: flex;
+	  align-items: center; /* Aligns items vertically */
+	  gap: 100px; /* Optional: Adds space between elements */
+	}
+	.dropdown {
+	  font-size: 18px
+	}
+</style>
 
-30-minute vertical slice featuring approachable stealth mechanics, diverse story, and unique visuals. 
+<div class="inline">
+  <h5>2024 | Unreal 5 | <strong class="highlight-text"Animation Programmer</strong></h5>
+  <button class="theme-button" onclick="window.location.href='https://pjheric.itch.io/project-ether';">View Itch Page</button>
+</div>
+<hr style="height:5pt; visibility:hidden;"/>
 
 <swiper-container keyboard="true" scrollbar="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/ether_assets/PE_8.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -19,6 +33,8 @@ images:
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/ether_assets/PE_10.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
+<details>
+<summary class="dropdown"><strong>Read Full Development Process</strong></summary>
 <br>
 <h2>Contributions</h2>
 Towards the end of this Capstone group's development window, they were still experiencing a lot of animation bugs and their main 3D animator had just taken leave. Luckily, through a mutual friend who was heavily involved in the game's systems programming, I was brought along and was able to resolve many of these issues over the course of 2 weeks.
@@ -58,6 +74,4 @@ While I worked, I also kept a list of changes I pushed to Perforce to report to 
 <h2>Demo Video</h2>
 <div align="center"><iframe width="100%" height="350" src="https://www.youtube.com/embed/GlWbBLLwht4?si=682XQCs_byLhUmOr" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-<br>
-<div align="center"><button class="theme-button" onclick="window.location.href='https://pjheric.itch.io/project-ether';">View Itch Page</button></div>
-<br>
+</details>
