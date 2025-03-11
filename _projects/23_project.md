@@ -14,7 +14,7 @@ images:
 	.inline {
 	  display: flex;
 	  align-items: center; /* Aligns items vertically */
-	  gap: 100px; /* Optional: Adds space between elements */
+	  gap: 75px; /* Optional: Adds space between elements */
 	}
 	.dropdown {
 	  font-size: 18px
@@ -34,7 +34,6 @@ images:
 </swiper-container>
 <br>
 
-<br>
 <h2>Q1/Pre-Development Closing Thoughts</h2>
 As my first time working with a comprehensive team of talented artists, 3D modelers, and sound designers, closing our 1st 10-week course (as well as pre-development) made me realize this project blossomed into a greater teaching experience than I had first thought it would be. Testing my abilities both as an artist and team lead, this stage of our development has been stressful to meet deadlines, and as I reflect on what's to be improved moving forward I've realized several things:
 <ul>

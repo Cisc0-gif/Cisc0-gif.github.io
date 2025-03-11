@@ -29,7 +29,7 @@ social: true # includes social icons at the bottom of the page
 <br>
 <br>
 <h1><strong>Ferenc Gozony</strong></h1>
-<h5 class="highlight-text">Concept Art / Level Design / UI/UX</h5>
+<h5 class="highlight-text">Concept Artist / Level Designer</h5>
 <p>Bridging art and gameplay — designing compelling characters, immersive worlds, and unforgettable experiences</p>
 <hr style="height:5pt; visibility:hidden;" />
 <div class="social">

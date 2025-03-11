@@ -22,7 +22,7 @@ images:
 </style>
 
 <div class="inline">
-  <h5>2024 | Unreal 5 | <strong class="highlight-text"Animation Programmer</strong></h5>
+  <h5>2024 | Unreal 5 | <strong class="highlight-text">Animation Programmer</strong></h5>
   <button class="theme-button" onclick="window.location.href='https://pjheric.itch.io/project-ether';">View Itch Page</button>
 </div>
 <hr style="height:5pt; visibility:hidden;"/>
@@ -32,9 +32,8 @@ images:
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/ether_assets/PE_6.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/ether_assets/PE_10.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
+<br>
 
-<details>
-<summary class="dropdown"><strong>Read Full Development Process</strong></summary>
 <br>
 <h2>Contributions</h2>
 Towards the end of this Capstone group's development window, they were still experiencing a lot of animation bugs and their main 3D animator had just taken leave. Luckily, through a mutual friend who was heavily involved in the game's systems programming, I was brought along and was able to resolve many of these issues over the course of 2 weeks.
@@ -45,6 +44,8 @@ A quick summary of my work involved:
 <li>Smoothed out AnimGraph states</li>
 <li>Fixed faulty render textures produced from Blender to Unreal pipeline</li>
 </ul>
+<details>
+<summary class="dropdown"><strong>Read Full Development Process</strong></summary>
 While I worked, I also kept a list of changes I pushed to Perforce to report to my team lead (see below).
 <ul>
 <strong>04/06/2024 6:19 PM</strong>
