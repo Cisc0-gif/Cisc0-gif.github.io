@@ -6,7 +6,7 @@
     "email": "fergo310@yahoo.com",
     "phone": "(949) 243-2496",
     "url": "https://cisc0-gif.github.io",
-    "summary": "Experienced World Designer with a background in Graphic Design, Computer Science, and Game Development.",
+    "summary": "Game Artist building worlds through Character and Environment Concept Art and Level Design. Experienced in collaborating with designers and programmers to craft engaging, player-driven experiences. Adept at managing art direction, iterative development, and team direction. Currently pursuing a B.S. in Game Design & Interactive Media at UCI, graduating March 2026.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -34,12 +34,12 @@
 	},
 	{
 	  "name": "Chronomancy (Game)",
-	  "position": "Creative Director",
+	  "position": "Art Director",
 	  "url": "https://cisc0-gif.github.io/projects/23_project",
 	  "startDate": "2024-06-01",
 	  "endDate": "",
 	  "summary": "Acting as Lead Visual Designer, I created character and environment concept art to capture our game's visual style, which was used as reference material for the art and sound team I oversaw (6 people). Additionally, I also developed level designs for our procedurally generated room system, setup our Perforce server, and created a Discord bot to operate it remotely and report commits.",
-	  "highlights": ["Blender", "Unreal 5", "Perforce", "Python", "Airtable", "Krita"]
+	  "highlights": ["Blender", "Unreal 5", "Perforce", "Python", "Airtable", "Krita", "Sketchbook", "Aseprite", "Illustrator"]
 	},
 	{
 	  "name": "Gozony Legal Nurse Consulting",
@@ -56,16 +56,16 @@
 	  "url": "https://cisc0-gif.github.io/projects/22_project/",
 	  "startDate": "2024-06-01",
 	  "endDate": "2024-08-01",
-	  "summary": "Brought on to help fix critical animation, movement, and texture bugs in game. I mainly fixed issues surrounding Animation Montages, AnimGraph states, and faulty render textures from Blender to Unreal pipeline.",
+	  "summary": "Was brought on to help fix critical animation, movement, and texture bugs in game. I mainly fixed issues surrounding Animation Montages, AnimGraph states, and faulty render textures from Blender to Unreal pipeline.",
 	  "highlights": ["Blender", "Unreal 5"]
 	},
 	{
 	  "name": "Convergence (Game)",
-	  "position": "Lead Visual Designer",
+	  "position": "Lead Artist",
 	  "url": "https://cisc0-gif.github.io/projects/13_project/",
 	  "startDate": "2024-05-01",
 	  "endDate": "2024-06-01",
-	  "summary": "Acting as Lead Visual Designer on this project, I drafted, presented, and implemented all assets for this game from concept to production, mainly working in Adobe Illustrator and Photoshop.",
+	  "summary": "Acting as Lead Artist on this project, I drafted, presented, and implemented all assets for this game from concept to production, mainly working in Adobe Illustrator and Photoshop.",
 	  "highlights": ["Illustrator", "Photoshop/GIMP", "Audacity", "Unity", "C#"]
 	},
     {
