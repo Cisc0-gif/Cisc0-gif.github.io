@@ -14,7 +14,7 @@ images:
 	.inline {
 	  display: flex;
 	  align-items: center; /* Aligns items vertically */
-	  gap: 100px; /* Optional: Adds space between elements */
+	  gap: 245px; /* Optional: Adds space between elements */
 	}
 	.dropdown {
 	  font-size: 18px
