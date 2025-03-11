@@ -9,19 +9,19 @@ display_categories:
 horizontal: false
 ---
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-<h2><strong>Going Light.</strong></h2>
+<h2><strong><strong class="highlight-text">// </strong>Going Light.</strong></h2>
 <h5>Website promoting digital minimalism</h5>
 <hr style="height:5pt; visibility:hidden;" />
 <a href="{{ site.url }}{{ site.baseurl }}/projects/4_project/"><img width="100%" src="../assets/img/project_03/home_screenshot.png"></a>
 <br><br><br><br>
 
-<h2><strong>Gozony LNC</strong></h2>
+<h2><strong><strong class="highlight-text">// </strong>Gozony LNC</strong></h2>
 <h5>Comissioned for a Legal Nurse Consulting business</h5>
 <hr style="height:5pt; visibility:hidden;" />
 <a href="{{ site.url }}{{ site.baseurl }}/projects/5_project/"><img width="100%" src="../assets/img/project_04/home_screenshot.png"></a>
 <br><br><br><br>
 
-<h2><strong>This Website.</strong></h2>
+<h2><strong><strong class="highlight-text">// </strong>This Website.</strong></h2>
 <h5>Portfolio website created with Al-Folio and Jekyll</h5>
 <hr style="height:5pt; visibility:hidden;" />
 <a href="{{ site.url }}{{ site.baseurl }}/projects/12_project/"><img width="100%" src="../assets/img/project_12/portfolio_site_screenshot.png"></a>

@@ -54,7 +54,7 @@ social: true # includes social icons at the bottom of the page
 
 
 
-<h2><strong>Chronomancy</strong></h2>
+<h2><strong><strong class="highlight-text">// </strong>Chronomancy</strong></h2>
 <h5>2024 | Unreal 5 | <strong class="highlight-text">Concept Art / Level Design / Art Direction</strong></h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
 <p></p>
@@ -73,7 +73,7 @@ social: true # includes social icons at the bottom of the page
 <a href="{{ site.url }}{{ site.baseurl }}/projects/23_project/"><img id="cover-three" width="100%" onmouseover="hover3()" onmouseout="out3()" src="assets/img/Chronomancy_assets/Chronomancy_TitleCard_241215.png"></a>
 <br><br><br><br>
 
-<h2><strong>Convergence</strong></h2>
+<h2><strong><strong class="highlight-text">// </strong>Convergence</strong></h2>
 <h5>2024 | Unity | <strong class="highlight-text">Art / Sound / Design</strong></h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
 <p></p>
@@ -93,7 +93,7 @@ social: true # includes social icons at the bottom of the page
 <br><br><br><br>
 
 
-<h2><strong>Project: Ether</strong></h2>
+<h2><strong><strong class="highlight-text">// </strong>Project: Ether</strong></h2>
 <h5>2024 | Unreal 5 | <strong class="highlight-text">Animation Programming</strong></h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
 <p></p>

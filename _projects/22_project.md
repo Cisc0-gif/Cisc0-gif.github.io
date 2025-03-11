@@ -44,8 +44,10 @@ A quick summary of my work involved:
 <li>Smoothed out AnimGraph states</li>
 <li>Fixed faulty render textures produced from Blender to Unreal pipeline</li>
 </ul>
+<br>
 <details>
 <summary class="dropdown"><strong>Read Full Development Process</strong></summary>
+<br>
 While I worked, I also kept a list of changes I pushed to Perforce to report to my team lead (see below).
 <ul>
 <strong>04/06/2024 6:19 PM</strong>

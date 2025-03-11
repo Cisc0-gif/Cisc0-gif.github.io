@@ -9,7 +9,7 @@ display_categories:
 horizontal: false
 ---
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-<h2><strong>Chronomancy</strong></h2>
+<h2><strong><strong class="highlight-text">// </strong>Chronomancy</strong></h2>
 <h5>2024 | Unreal 5 | <strong class="highlight-text">Creative Director / Concept Art / Level Design</strong></h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
 <p></p>
@@ -28,7 +28,7 @@ horizontal: false
 <a href="{{ site.url }}{{ site.baseurl }}/projects/23_project/"><img id="cover-three" width="100%" onmouseover="hover3()" onmouseout="out3()" src="../assets/img/Chronomancy_assets/Chronomancy_TitleCard_241215.png"></a>
 <br><br><br><br>
 
-<h2><strong>Convergence</strong></h2>
+<h2><strong><strong class="highlight-text">// </strong>Convergence</strong></h2>
 <h5>2024 | Unity | <strong class="highlight-text">Art / Sound / Design</strong></h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
 <p></p>
@@ -48,7 +48,7 @@ horizontal: false
 <br><br><br><br>
 
 
-<h2><strong>Project: Ether</strong></h2>
+<h2><strong><strong class="highlight-text">// </strong>Project: Ether</strong></h2>
 <h5>2024 | Unreal 5 | <strong class="highlight-text">Animation Programmer</strong></h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
 <p></p>
@@ -73,7 +73,7 @@ horizontal: false
 <!-- <a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img width="100%" src="assets/img/convergence_assets/convergencetest_01.png"></a> -->
 
 
-<h2><strong>Cel-Shaded Terrain Demo</strong></h2>
+<h2><strong><strong class="highlight-text">// </strong>Cel-Shaded Terrain Demo</strong></h2>
 <h5>2022 | Unity | <strong class="highlight-text">Art / 3D Modeling / Technical Art</strong></h5>
 
 <!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
@@ -90,7 +90,7 @@ horizontal: false
 <a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img id="cover-four" width="100%" onmouseover="hover4()" onmouseout="out4()" src="../assets/img/project_08/Image Sequence_001_0000.png"></a>
 <br><br><br><br>
 
-<h2><strong>Physics Shader Demo</strong></h2>
+<h2><strong><strong class="highlight-text">// </strong>Physics Shader Demo</strong></h2>
 <h5>2022 | Unity | <strong class="highlight-text">3D Modeling / Technical Art</strong></h5>
 
 <!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
@@ -99,7 +99,7 @@ horizontal: false
 <a href="{{ site.url }}{{ site.baseurl }}/projects/11_project/"><img width="100%" src="../assets/img/project_09/physics_demo_screenshot.png"></a>
 <br><br><br><br>
 
-<h2><strong>Procedural Animation Demo</strong></h2>
+<h2><strong><strong class="highlight-text">// </strong>Procedural Animation Demo</strong></h2>
 <h5>2022 | Unity | <strong class="highlight-text">3D Modeling / Animation Programmer</strong></h5>
 
 <!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
