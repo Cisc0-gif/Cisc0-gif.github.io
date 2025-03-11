@@ -10,7 +10,7 @@ horizontal: false
 ---
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 <h2><strong><strong class="highlight-text">// </strong>Chronomancy</strong></h2>
-<h5>2024 | Unreal 5 | <strong class="highlight-text">Creative Director / Concept Art / Level Design</strong></h5>
+<h5>2024 | Unreal 5 | <strong class="highlight-text">Concept Art / Level Design / Art Direction</strong></h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
 <p></p>
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
