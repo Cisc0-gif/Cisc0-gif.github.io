@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Ether
-description: 3rd-person stealth game using AnimGraph, Animation Montages, and Blendspaces
+description: 
 img: assets/img/ether_assets/pe_titlecard.png
 importance: 2
 category: games
@@ -36,7 +36,7 @@ images:
 
 <br>
 <h2>Contributions</h2>
-Towards the end of this Capstone group's development window, they were still experiencing a lot of animation bugs and their main 3D animator had just taken leave. Luckily, through a mutual friend who was heavily involved in the game's systems programming, I was brought along and was able to resolve many of these issues over the course of 2 weeks.
+Towards the end of this Capstone group's development window, they were still experiencing a lot of animation bugs and their main 3D animator had just taken leave. Luckily, through a mutual friend who was heavily involved in the game's development, I was brought along and was able to resolve many of these issues over the course of 2 weeks before their shipping date.
 A quick summary of my work involved:
 <ul>
 <li>Debug critical animation, movement, and texture bugs with models</li>
