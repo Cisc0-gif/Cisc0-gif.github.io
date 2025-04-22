@@ -3,10 +3,11 @@
     "name": "Ferenc Gozony",
     "label": "Visual Designer",
     "image": "",
-    "email": "fergo310@yahoo.com",
+    "email": "ferenc.gozony@gmail.com",
     "phone": "(949) 243-2496",
     "url": "https://cisc0-gif.github.io",
-    "summary": "Game Artist building worlds through Character and Environment Concept Art and Level Design. Experienced in collaborating with designers and programmers to craft engaging, player-driven experiences. Adept at managing art direction, iterative development, and team direction. Currently pursuing a B.S. in Game Design & Interactive Media at UCI, graduating March 2026.",
+    "summary": "Game Artist looking to provide passionate and detailed work while earning hands-on experience in AAA studios. Currently pursuing a B.S. in Game Design & Interactive Media at UCI, graduating March 2026.",
+",
     "location": {
       "address": "",
       "postalCode": "",
@@ -25,11 +26,11 @@
   "work": [
 	{
 	  "name": "BranchOut, Inc.",
-	  "position": "UI/UX Designer / Team Lead",
+	  "position": "UI/UX Design Team Lead",
 	  "url": "https://www.branchout.app/",
 	  "startDate": "2024-09-01",
 	  "endDate": "",
-	  "summary": "As Lead UI/UX Designer, I led user research by writing interview guides and organizing a team of 7 to conduct interviews identifying target audience, planning challenges, and app feedback—translating insights into an improved UI flow and better user experience. Additionally, I collaborated with the Founder on system design, interaction loops, and gamification.",
+	  "summary": "Organized UI/UX market research with a team of 7 ambassadors, leading user interviews and translating insights into an improved UI flow and better user experience. Additionally, I also worked closely with the product owner to optimize system design and interaction loop through gamification.",
 	  "highlights": ["Figma", "Illustrator", "Canva", "Slack", "Google Meet"]
 	},
 	{
@@ -38,7 +39,7 @@
 	  "url": "https://cisc0-gif.github.io/projects/23_project",
 	  "startDate": "2024-06-01",
 	  "endDate": "",
-	  "summary": "Acting as Lead Visual Designer, I created character and environment concept art to capture our game's visual style, which was used as reference material for the art and sound team I oversaw (6 people). Additionally, I also developed level designs for our procedurally generated room system, setup our Perforce server, and created a Discord bot to operate it remotely and report commits.",
+	  "summary": "Designed 100+ character and environment concepts, providing essential materials for the art and sound team. Created a room design pool for procedural generation, using props and lighting to create an immersive labyrinth atmosphere. Led a team of 8 artists across three 10-week sprints through pre-production, development, and Alpha release. Wrote a Python bot for managing Perforce servers remotely from a project’s Discord server (P4Discord).",
 	  "highlights": ["Blender", "Unreal 5", "Perforce", "Python", "Airtable", "Krita", "Sketchbook", "Aseprite", "Illustrator"]
 	},
 	{
@@ -56,7 +57,7 @@
 	  "url": "https://cisc0-gif.github.io/projects/22_project/",
 	  "startDate": "2024-06-01",
 	  "endDate": "2024-08-01",
-	  "summary": "Was brought on to help fix critical animation, movement, and texture bugs in game. I mainly fixed issues surrounding Animation Montages, AnimGraph states, and faulty render textures from Blender to Unreal pipeline.",
+	  "summary": "Debugged 10 animations, 2 blendspaces, and related texture issues affecting gameplay, improving visual consistency between player and enemies. Fixed Animation Montage errors and optimized a 7-state AnimGraph during combat development, resulting in smoother animation blending. Resolved Blender-to-UE5 pipeline errors regarding textures, enhancing asset quality and reducing bottlenecks in production.",
 	  "highlights": ["Blender", "Unreal 5"]
 	},
 	{
@@ -65,16 +66,16 @@
 	  "url": "https://cisc0-gif.github.io/projects/13_project/",
 	  "startDate": "2024-05-01",
 	  "endDate": "2024-06-01",
-	  "summary": "Acting as Lead Artist on this project, I drafted, presented, and implemented all assets for this game from concept to production, mainly working in Adobe Illustrator and Photoshop.",
+	  "summary": "Designed 5 UI flows, 15+ Sprites, and a background environment from concept to production in under 10 weeks. Worked cross-functionally to develop core game systems, UI flows, and visual style. Created promotional materials for our Itch.io page, as well as hosting a 2 system booth at a game convention.",
 	  "highlights": ["Illustrator", "Photoshop/GIMP", "Audacity", "Unity", "C#"]
 	},
     {
       "name": "SECO-LARM, USA.",
-      "position": "Graphic Designer",
+      "position": "Graphic Design Intern",
       "url": "https://seco-larm.com",
       "startDate": "2023-01-01",
       "endDate": "2023-12-01",
-      "summary": "Under mentorship of the Senior Graphic Designer, we worked to produce marketing materials including social media posts (IG, FB, TW/X, Pinterest, Reels/TikTok), web banners, advertisements, and product photos and literature, as well as maintaining an organized system of visual assets for design use.",
+      "summary": "Created digital, print, and social media marketing content that was featured in B2B markets nationwide. Collaborated with international manufacturers to create brand-compliant marketing materials worldwide. Worked Full-Time over a 3 month period while Sr. Designer was on maternity leave, taking on product photography, screen printing, and organizational duties.",
       "highlights": ["Illustrator", "Photoshop", "InDesign", "ConstantContact", "WordPress", "Screen Printing"]
     }
   ],
@@ -89,7 +90,7 @@
       "startDate": "2022-09-01",
       "endDate": "2026-09-01",
       "score": "",
-      "courses": ["Minor in Film & Media Studies", "Video Game Development Club", "Film Club", "Art Club"]
+      "courses": ["Game Programming", "Team Management", "Market Research", "Multiplayer Programming", "Minor in Film & Media Studies", "Video Game Development Club", "Film Club", "Art Club"]
     }
   ],
   "awards": [],
@@ -179,6 +180,11 @@
   ],
   "interests": [],
   "references": [
+	{
+	"name": "Justin Arenson",
+      "icon": "",
+      "reference": "Supervisor at BranchOut, Inc."
+	},
 	{
       "name": "Christina Bartel",
       "icon": "",
