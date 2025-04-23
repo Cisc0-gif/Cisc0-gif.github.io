@@ -68,7 +68,10 @@ img {
 }
 
 .image-row img {
-  height: 40px; /* adjust size */
-  width: auto;  /* keeps proportions */
+  width: 40px;
+  height: 40px;
   object-fit: contain;
+  padding: 5px;
+  background-color: #fff; /* optional, for contrast */
+  border-radius: 4px;      /* optional, for rounded icons */
 }
