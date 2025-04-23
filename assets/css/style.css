@@ -59,3 +59,16 @@ img {
         display: none;
     }
 }
+
+.image-row {
+  display: flex;
+  flex-wrap: wrap; /* makes it wrap on small screens */
+  gap: 10px; /* spacing between images */
+  align-items: center;
+}
+
+.image-row img {
+  height: 40px; /* adjust size */
+  width: auto;  /* keeps proportions */
+  object-fit: contain;
+}

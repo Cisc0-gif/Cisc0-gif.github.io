@@ -35,6 +35,11 @@ social: true # includes social icons at the bottom of the page
 <div class="social">
 <div class="contact-icons">{% include social.liquid %}</div>
 </div>
+<div class="image-row">
+  <img src="assets/img/tool_icons/Unity_250423.png" alt="Unity" />
+  <img src="assets/img/tool_icons/Unreal_250423.png" alt="Unreal" />
+  <img src="assets/img/tool_icons/Krita_250423.png" alt="Krita" />
+</div>
 <!--
 <p>Currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies</p>
 <p>I plan to graduate in Spring of 2025.</p>
