@@ -41,7 +41,7 @@ social: true # includes social icons at the bottom of the page
   <img src="assets/img/tool_icons/Gimp_250423.png" alt="GIMP">
   <img src="assets/img/tool_icons/Photoshop_250423.png" alt="Photoshop">
   <img src="assets/img/tool_icons/Illustrator_250423.png" alt="Illustrator">
-  <img src="assets/img/tool_icons/InDesign.png" alt="InDesign">
+  <img src="assets/img/tool_icons/InDesign_250423.png" alt="InDesign">
   <img src="assets/img/tool_icons/Aseprite_250423.png" alt="Aseprite">
   <img src="assets/img/tool_icons/Figma_250423.png" alt="Figma">
   <img src="assets/img/tool_icons/Blender_250423.png" alt="Blender">
