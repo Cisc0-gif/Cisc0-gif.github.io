@@ -72,7 +72,7 @@ social: true # includes social icons at the bottom of the page
 
 
 <h2><strong><strong class="highlight-text">// </strong>Chronomancy</strong></h2>
-<h5>2024 | Unreal 5 | <strong class="highlight-text">Concept Art / Level Design / Art Direction</strong></h5>
+<h5>2024 | Unreal 5 | <strong class="highlight-text">Art / Sound / Design / Level Design</strong></h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
 <p></p>
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
