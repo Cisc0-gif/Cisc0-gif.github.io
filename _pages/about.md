@@ -36,9 +36,20 @@ social: true # includes social icons at the bottom of the page
 <div class="contact-icons">{% include social.liquid %}</div>
 </div>
 <div class="image-row">
+  <img src="assets/img/tool_icons/Krita_250423.png" alt="Krita">
+  <img src="assets/img/tool_icons/Sketchbook_250423.png" alt="Autodesk Sketchbook">
+  <img src="assets/img/tool_icons/Gimp_250423.png" alt="GIMP">
+  <img src="assets/img/tool_icons/Photoshop_250423.png" alt="Photoshop">
+  <img src="assets/img/tool_icons/Illustrator_250423.png" alt="Illustrator">
+  <img src="assets/img/tool_icons/InDesign.png" alt="InDesign">
+  <img src="assets/img/tool_icons/Aseprite_250423.png" alt="Aseprite">
+  <img src="assets/img/tool_icons/Figma_250423.png" alt="Figma">
+  <img src="assets/img/tool_icons/Blender_250423.png" alt="Blender">
   <img src="assets/img/tool_icons/Unity_250423.png" alt="Unity">
   <img src="assets/img/tool_icons/Unreal_White_250423.png" alt="Unreal">
-  <img src="assets/img/tool_icons/Krita_250423.png" alt="Krita">
+  <img src="assets/img/tool_icons/GitHub_250423.png" alt="GitHub">
+  <img src="assets/img/tool_icons/Perforce_250423.png" alt="Perforce">
+  
 </div>
 <!--
 <p>Currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies</p>
