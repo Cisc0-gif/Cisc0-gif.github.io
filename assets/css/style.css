@@ -68,17 +68,17 @@ img {
 }
 
 .image-row img {
-  width: 49px;
-  height: 49px;
+  width: 55px;
+  height: 55px;
   object-fit: contain;
-  padding: 5px;
+  padding: 3px;
   /*background-color: #fff; */ /* optional, for contrast */
   border-radius: 4px;      /* optional, for rounded icons */
 }
 
 .icon {
-  width: 49px;
-  height: 49px;
+  width: 55px;
+  height: 55px;
   display: flex;
   align-items: center;
   justify-content: center;
