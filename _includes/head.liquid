@@ -11,6 +11,9 @@
   crossorigin="anonymous"
 >
 
+<!-- Pre-load Profile photo -->
+<link rel="preload" as="image" href="{{ '/assets/img/cover_photo.png' | relative_url }}">
+
 <!-- Bootstrap Table -->
 {% if page.pretty_table %}
   <link defer rel="stylesheet" href="https://unpkg.com/bootstrap-table@{{ site.bootstrap-table.version }}/dist/bootstrap-table.min.css">
