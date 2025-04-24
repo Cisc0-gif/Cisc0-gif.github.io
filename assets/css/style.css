@@ -72,7 +72,7 @@ img {
   height: 40px;
   object-fit: contain;
   padding: 5px;
-  background-color: #fff; /* optional, for contrast */
+  /*background-color: #fff; */ /* optional, for contrast */
   border-radius: 4px;      /* optional, for rounded icons */
 }
 
@@ -82,7 +82,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #fff; /* or use var(--your-bg-color) */
+  /*background-color: #fff; */ /* or use var(--your-bg-color) */
   border-radius: 6px;
   padding: 6px;
 }

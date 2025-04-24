@@ -36,9 +36,9 @@ social: true # includes social icons at the bottom of the page
 <div class="contact-icons">{% include social.liquid %}</div>
 </div>
 <div class="image-row">
-  <div class="icon"><img src="assets/img/tool_icons/Unity_250423.png" alt="Unity"></div>
-  <div class="icon"><img src="assets/img/tool_icons/Unreal_White_250423.png" alt="Unreal"></div>
-  <div class="icon"><img src="assets/img/tool_icons/Krita_250423.png" alt="Krita"></div>
+  <img src="assets/img/tool_icons/Unity_250423.png" alt="Unity">
+  <img src="assets/img/tool_icons/Unreal_White_250423.png" alt="Unreal">
+  <img src="assets/img/tool_icons/Krita_250423.png" alt="Krita">
 </div>
 <!--
 <p>Currently studying at UC Irvine for my B.S in Game Design and Interactive Media, alongside a Minor in Film & Media Studies</p>
