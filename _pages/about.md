@@ -35,6 +35,7 @@ social: true # includes social icons at the bottom of the page
 <div class="social">
 <div class="contact-icons">{% include social.liquid %}</div>
 </div>
+<br>
 <div class="image-row">
   <img src="assets/img/tool_icons/Krita_250423.png" alt="Krita">
   <img src="assets/img/tool_icons/Sketchbook_250423.png" alt="Autodesk Sketchbook">
@@ -65,7 +66,7 @@ social: true # includes social icons at the bottom of the page
 <!-- <button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">Artstation</button> -->
 
 
-<br><br><br><br>
+<br><br>
 <!-- <h1>Games</h1> <hr> -->
 
 
