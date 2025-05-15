@@ -32,9 +32,11 @@ social: true # includes social icons at the bottom of the page
 <h5 class="highlight-text">Concept Artist / Level Designer</h5>
 <p>Bridging art and gameplay — designing compelling characters, immersive worlds, and unforgettable experiences</p>
 <hr style="height:5pt; visibility:hidden;" />
+<!--
 <div class="social">
 <div class="contact-icons">{% include social.liquid %}</div>
 </div>
+-->
 <br>
 <div class="image-row">
   <img src="assets/img/tool_icons/Krita_250423.png" alt="Krita">
@@ -46,8 +48,8 @@ social: true # includes social icons at the bottom of the page
   <img src="assets/img/tool_icons/Aseprite_250423.png" alt="Aseprite">
   <img src="assets/img/tool_icons/Figma_250423.png" alt="Figma">
   <img src="assets/img/tool_icons/Blender_250423.png" alt="Blender">
-  <img src="assets/img/tool_icons/Unity_250423.png" alt="Unity">
-  <img src="assets/img/tool_icons/Unreal_White_250423.png" alt="Unreal">
+  <img src="assets/img/tool_icons/Unity_250423_Black.png" alt="Unity">
+  <img src="assets/img/tool_icons/Unreal_250423.png" alt="Unreal">
   <img src="assets/img/tool_icons/GitHub_250423.png" alt="GitHub">
   <img src="assets/img/tool_icons/Perforce_250423.png" alt="Perforce">
   
