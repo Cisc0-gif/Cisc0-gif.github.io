@@ -22,7 +22,7 @@ images:
 </style>
 
 <div class="inline">
-  <h5>2024 | Unreal 5 | <strong class="highlight-text">Art Director / Concept Artist / Level Designer</strong></h5>
+  <h5>2024 | Unreal 5 | <strong class="highlight-text">Art / UI / Level Design</strong></h5>
   <button class="theme-button" onclick="window.location.href='https://icor.itch.io/chronomancy';">View Itch Page</button>
 </div>
 <hr style="height:5pt; visibility:hidden;"/>
