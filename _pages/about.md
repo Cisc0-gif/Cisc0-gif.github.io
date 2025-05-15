@@ -157,7 +157,6 @@ social: true # includes social icons at the bottom of the page
 <br><br><br>
 -->
 <div align="center"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">More Projects</button></div>
-<br>
 
 <!--
 {::comment}
