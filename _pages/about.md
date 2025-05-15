@@ -39,8 +39,8 @@ social: true # includes social icons at the bottom of the page
 -->
 <div class="desktop-only">
 <br>
-</div>
 <br>
+</div>
 <br>
 <div class="image-row">
   <img src="assets/img/tool_icons/Krita_250423.png" alt="Krita">
