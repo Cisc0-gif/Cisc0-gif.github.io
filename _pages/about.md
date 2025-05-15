@@ -37,7 +37,9 @@ social: true # includes social icons at the bottom of the page
 <div class="contact-icons">{% include social.liquid %}</div>
 </div>
 -->
+<div class="desktop-only">
 <br>
+</div>
 <br>
 <br>
 <div class="image-row">
