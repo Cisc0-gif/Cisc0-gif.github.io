@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Resume
+title: CV
 nav: true
 nav_order: 5
 cv_pdf: Game_Art_Resume_250424.pdf

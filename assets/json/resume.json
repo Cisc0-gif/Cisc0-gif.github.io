@@ -33,15 +33,6 @@
 	  "highlights": ["Figma", "Illustrator", "Canva", "Slack", "Google Meet"]
 	},
 	{
-	  "name": "Chronomancy (Game)",
-	  "position": "Art Director",
-	  "url": "https://cisc0-gif.github.io/projects/23_project",
-	  "startDate": "2024-06-01",
-	  "endDate": "",
-	  "summary": "Designed 100+ character and environment concepts, providing essential materials for the art and sound team. Created a room design pool for procedural generation, using props and lighting to create an immersive labyrinth atmosphere. Led a team of 8 artists across three 10-week sprints through pre-production, development, and Alpha release. Wrote a Python bot for managing Perforce servers remotely from a project’s Discord server (P4Discord).",
-	  "highlights": ["Blender", "Unreal 5", "Perforce", "Python", "Airtable", "Krita", "Sketchbook", "Aseprite", "Illustrator"]
-	},
-	{
 	  "name": "Gozony Legal Nurse Consulting",
 	  "position": "Office Assistant",
 	  "url": "https://www.gozonylnc.com/",
@@ -49,24 +40,6 @@
 	  "endDate": "2024-09-01",
 	  "summary": "Assisting in file organization, billing, and advertisement, I prepared case files, invoiced clients and documented receipts on Quickbooks, and created logos, business cards, labels and Word templates, as well as a custom website in Wix (www.gozonylnc.com).",
 	  "highlights": ["Illustrator", "Wix", "Screen Printing"]
-	},
-	{
-	  "name": "Project: Ether (Game)",
-	  "position": "Animation Programmer",
-	  "url": "https://cisc0-gif.github.io/projects/22_project/",
-	  "startDate": "2024-06-01",
-	  "endDate": "2024-08-01",
-	  "summary": "Debugged 10 animations, 2 blendspaces, and related texture issues affecting gameplay, improving visual consistency between player and enemies. Fixed Animation Montage errors and optimized a 7-state AnimGraph during combat development, resulting in smoother animation blending. Resolved Blender-to-UE5 pipeline errors regarding textures, enhancing asset quality and reducing bottlenecks in production.",
-	  "highlights": ["Blender", "Unreal 5"]
-	},
-	{
-	  "name": "Convergence (Game)",
-	  "position": "Lead Artist",
-	  "url": "https://cisc0-gif.github.io/projects/13_project/",
-	  "startDate": "2024-05-01",
-	  "endDate": "2024-06-01",
-	  "summary": "Designed 5 UI flows, 15+ Sprites, and a background environment from concept to production in under 10 weeks. Worked cross-functionally to develop core game systems, UI flows, and visual style. Created promotional materials for our Itch.io page, as well as hosting a 2 system booth at a game convention.",
-	  "highlights": ["Illustrator", "Photoshop/GIMP", "Audacity", "Unity", "C#"]
 	},
     {
       "name": "SECO-LARM, USA.",
@@ -195,5 +168,30 @@
       "reference": "Senior Graphic Designer for SECO-LARM, USA."
     }
   ],
-  "projects": []
+  "projects": [
+  	{
+	  "name": "Chronomancy (Game)",
+	  "url": "https://cisc0-gif.github.io/projects/23_project",
+	  "startDate": "2024-06-01",
+	  "endDate": "",
+	  "summary": "Designed 100+ character and environment concepts, providing essential materials for the art and sound team. Created a room design pool for procedural generation, using props and lighting to create an immersive labyrinth atmosphere. Led a team of 8 artists across three 10-week sprints through pre-production, development, and Alpha release. Wrote a Python bot for managing Perforce servers remotely from a project’s Discord server (P4Discord).",
+	  "highlights": ["Blender", "Unreal 5", "Perforce", "Python", "Airtable", "Krita", "Sketchbook", "Aseprite", "Illustrator"]
+	},
+	{
+	  "name": "Project: Ether",
+	  "url": "https://cisc0-gif.github.io/projects/22_project/",
+	  "startDate": "2024-06-01",
+	  "endDate": "2024-08-01",
+	  "summary": "Debugged 10 animations, 2 blendspaces, and related texture issues affecting gameplay, improving visual consistency between player and enemies. Fixed Animation Montage errors and optimized a 7-state AnimGraph during combat development, resulting in smoother animation blending. Resolved Blender-to-UE5 pipeline errors regarding textures, enhancing asset quality and reducing bottlenecks in production.",
+	  "highlights": ["Blender", "Unreal 5"]
+	},
+	{
+	  "name": "Convergence",
+	  "url": "https://cisc0-gif.github.io/projects/13_project/",
+	  "startDate": "2024-05-01",
+	  "endDate": "2024-06-01",
+	  "summary": "Designed 5 UI flows, 15+ Sprites, and a background environment from concept to production in under 10 weeks. Worked cross-functionally to develop core game systems, UI flows, and visual style. Created promotional materials for our Itch.io page, as well as hosting a 2 system booth at a game convention.",
+	  "highlights": ["Illustrator", "Photoshop/GIMP", "Audacity", "Unity", "C#"]
+	},
+  ]
 }
