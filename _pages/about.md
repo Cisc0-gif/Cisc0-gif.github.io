@@ -32,11 +32,7 @@ social: true # includes social icons at the bottom of the page
 <h5 class="highlight-text">Concept Artist / Level Designer</h5>
 <p>Bridging art and gameplay — designing compelling characters, immersive worlds, and unforgettable experiences</p>
 <hr style="height:5pt; visibility:hidden;" />
-<!--
-<div class="social">
-<div class="contact-icons">{% include social.liquid %}</div>
-</div>
--->
+<br>
 <br>
 <div class="image-row">
   <img src="assets/img/tool_icons/Krita_250423.png" alt="Krita">
@@ -156,6 +152,10 @@ social: true # includes social icons at the bottom of the page
 -->
 <div align="center"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/projects/';">More Projects</button></div>
 <br>
+
+<div class="social">
+<div class="contact-icons">{% include social.liquid %}</div>
+</div>
 
 <!--
 {::comment}
