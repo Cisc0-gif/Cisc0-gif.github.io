@@ -30,7 +30,12 @@ social: true # includes social icons at the bottom of the page
 <br>
 <h1><strong>Ferenc Gozony</strong></h1> <!-- <strong class="highlight-text">// </strong> -->
 <h5 class="highlight-text">Game Design Student @ UCI | Game Artist</h5>
+<div class="desktop-only">
 <p>Bridging art and gameplay — designing compelling characters, <br>immersive worlds, and unforgettable experiences</p>
+</div>
+<div class="mobile-only">
+<p>Bridging art and gameplay — designing compelling characters, immersive worlds, and unforgettable experiences</p>
+</div>
 <hr style="height:5pt; visibility:hidden;" />
 <!--
 <div class="social">

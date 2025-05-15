@@ -60,6 +60,12 @@ img {
     }
 }
 
+@media (min-width: 1200px) {
+    .mobile-only {
+        display: none;
+    }
+}
+
 .image-row {
   display: flex;
   flex-wrap: wrap; /* makes it wrap on small screens */
