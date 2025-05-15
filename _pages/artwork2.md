@@ -26,5 +26,25 @@ horizontal: false
   <a href="https://www.artstation.com/artwork/9EYm4N"><img width="100%" height="75%" src="../../assets/img/artwork/DuneBanner02_transparent03.png"></a>
   <a href="https://www.artstation.com/artwork/KenbdR"><img width="100%" height="75%" src="../../assets/img/artwork/Kylee_Gift_Colored_230918_colored_TW.png"></a>
 </div>
+<div class="inline">
+  <a href=""><img width="100%" height="75%" src="../../assets/img/artwork/Boss_Concept_250515.png"></a>
+  <a href=""><img width="100%" height="75%" src="../../assets/img/artwork/Leg_Model_Concept_250515.png"></a>
+</div>
+<div class="inline">
+  <a href=""><img width="100%" height="75%" src="../../assets/img/artwork/Health_Potion_Concept_250515.png"></a>
+  <a href=""><img width="100%" height="75%" src="../../assets/img/artwork/Mana_Potion_Concept_250515.png"></a>
+</div>
+<div class="inline">
+  <a href=""><img width="100%" height="75%" src="../../assets/img/artwork/Talisman_Concept_250515.png"></a>
+  <a href=""><img width="100%" height="75%" src="../../assets/img/artwork/Scroll_Concept_250515.png"></a>
+</div>
+<div class="inline">
+  <a href=""><img width="100%" height="75%" src="../../assets/img/artwork/Helmet_Concept_250515.png"></a>
+  <a href=""><img width="100%" height="75%" src="../../assets/img/artwork/Ranged_Concept_250515.png"></a>
+</div>
+<div class="inline">
+  <a href=""><img width="100%" height="75%" src="../../assets/img/artwork/Ranged_Concept_02_250515.png"></a>
+  <a href=""><img width="100%" height="75%" src="../../assets/img/artwork/Environment_Concept_250515.png"></a>
+</div>
 
 <hr style="height:5pt; visibility:hidden;"/>
