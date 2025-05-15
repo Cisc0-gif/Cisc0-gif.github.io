@@ -60,7 +60,7 @@ img {
     }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 769px) {
     .mobile-only {
         display: none;
     }
