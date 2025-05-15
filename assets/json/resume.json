@@ -51,6 +51,32 @@
       "highlights": ["Illustrator", "Photoshop", "InDesign", "ConstantContact", "WordPress", "Screen Printing"]
     }
   ],
+  "projects": [
+  	{
+	  "name": "Chronomancy (Game)",
+	  "summary": "As Art Director for this project, I'm currently managing a team of 8 talented artists while defining the game's visual style through the creation of character and environment concept art.",
+	  "highlights": ["Blender", "Unreal 5", "Perforce", "Python", "Airtable", "Krita", "Sketchbook", "Aseprite", "Illustrator"],
+	  "startDate": "2024-06-01",
+	  "endDate": "",
+  	  "url": "https://cisc0-gif.github.io/projects/23_project"
+	},
+	{
+	  "name": "Project: Ether",
+	  "summary": "Contributed towards rigging, animation, and texture debugging over the course of 2 weeks before this project's shipping date. A quick summary of my work involved identifying, documenting, and resolving animation and texture-related issues impacting gameplay and performance.",
+	  "highlights": ["Blender", "Unreal 5"],
+	  "startDate": "2024-06-01",
+	  "endDate": "2024-08-01", 
+	  "url": "https://cisc0-gif.github.io/projects/22_project/"
+	},
+	{
+	  "name": "Convergence",
+	  "summary": "As Lead Artist, I designed our sprites and particle-based VFX to adapt to the challenges of a constantly scaling canvas, maintaining visual clarity and supporting our narrative theme in an ever-changing particle simulation.",
+	  "highlights": ["Illustrator", "Photoshop/GIMP", "Audacity", "Unity", "C#"],
+	  "startDate": "2024-05-01",
+	  "endDate": "2024-06-01",
+  	  "url": "https://cisc0-gif.github.io/projects/13_project/"
+	}
+  ]
   "volunteer": [],
   "education": [
     {
@@ -167,31 +193,5 @@
       "icon": "",
       "reference": "Senior Graphic Designer for SECO-LARM, USA."
     }
-  ],
-  "projects": [
-  	{
-	  "name": "Chronomancy (Game)",
-	  "summary": "As Art Director for this project, I'm currently managing a team of 8 talented artists while defining the game's visual style through the creation of character and environment concept art.",
-	  "highlights": ["Blender", "Unreal 5", "Perforce", "Python", "Airtable", "Krita", "Sketchbook", "Aseprite", "Illustrator"],
-	  "startDate": "2024-06-01",
-	  "endDate": "",
-  	  "url": "https://cisc0-gif.github.io/projects/23_project"
-	},
-	{
-	  "name": "Project: Ether",
-	  "summary": "Contributed towards rigging, animation, and texture debugging over the course of 2 weeks before this project's shipping date. A quick summary of my work involved identifying, documenting, and resolving animation and texture-related issues impacting gameplay and performance.",
-	  "highlights": ["Blender", "Unreal 5"],
-	  "startDate": "2024-06-01",
-	  "endDate": "2024-08-01", 
-	  "url": "https://cisc0-gif.github.io/projects/22_project/"
-	},
-	{
-	  "name": "Convergence",
-	  "summary": "As Lead Artist, I designed our sprites and particle-based VFX to adapt to the challenges of a constantly scaling canvas, maintaining visual clarity and supporting our narrative theme in an ever-changing particle simulation.",
-	  "highlights": ["Illustrator", "Photoshop/GIMP", "Audacity", "Unity", "C#"],
-	  "startDate": "2024-05-01",
-	  "endDate": "2024-06-01",
-  	  "url": "https://cisc0-gif.github.io/projects/13_project/"
-	}
   ]
 }
