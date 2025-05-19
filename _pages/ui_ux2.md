@@ -4,7 +4,7 @@ title: UI/UX
 permalink: /ui/
 description: 
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: 
 horizontal: false
 ---
@@ -27,9 +27,7 @@ horizontal: false
 <a href="{{ site.url }}{{ site.baseurl }}/projects/12_project/"><img width="100%" src="../assets/img/project_12/portfolio_site_screenshot.png"></a>
 <br><br><br>
 
-<div align="center"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/artwork/';">View Art Portfolio</button></div>
-<br>
-
+<hr style="height:5pt; visibility:hidden;"/>
 
 <!--
 {::comment}
