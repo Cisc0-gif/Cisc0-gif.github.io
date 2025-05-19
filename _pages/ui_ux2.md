@@ -9,7 +9,7 @@ display_categories:
 horizontal: false
 ---
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-<h2><strong><strong class="highlight-text">// </strong>BranchOut, Inc.<strong></h2>
+<h2><strong><strong class="highlight-text">// </strong>BranchOut, Inc.</strong></h2>
 <h5>Scheduling app designed to make social life easier for college students</h5>
 <hr style="height:5pt; visibility:hidden;" />
 <a href="{{ site.url }}{{ site.baseurl }}/projects/24_project/"><img width="100%" src="../assets/img/BranchOut/landing_page_web.png"></a>

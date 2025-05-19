@@ -72,6 +72,14 @@ horizontal: false
 <!-- <div align="center"><iframe width="100%" height="350" src="https://www.youtube.com/embed/NQFwHyNttlo?si=MTZ5PVpDfmt3c4Lq" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div> -->
 <!-- <a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img width="100%" src="assets/img/convergence_assets/convergencetest_01.png"></a> -->
 
+<h2><strong><strong class="highlight-text">// </strong>Photonics</strong></h2>
+<h5>2022 | Unity | <strong class="highlight-text">Art / UI / Animation</strong></h5>
+
+<!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
+
+<hr style="height:5pt; visibility:hidden;" />
+<a href="{{ site.url }}{{ site.baseurl }}/projects/25_project/"><img width="100%" src="../assets/img/project_02/ItchBackground_250519.png"></a>
+<br><br><br><br>
 
 <h2><strong><strong class="highlight-text">// </strong>Cel-Shaded Terrain Demo</strong></h2>
 <h5>2022 | Unity | <strong class="highlight-text">Art / 3D Modeling / Technical Art</strong></h5>
