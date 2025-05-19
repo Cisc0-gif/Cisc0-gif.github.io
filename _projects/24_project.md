@@ -13,7 +13,6 @@ category: websites
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
 As UI/UX Design Team Lead at BranchOut, my responsibilities include organizing weekly design meetings, conducting asynchronous content reviews via Slack, and collaborating with the product owner to refine core mechanics and engagement loops based on user feedback.
-One of my recent projects involved redesigning our website to mirror the mobile experience, ensuring consistency while exploring dynamic layouts.
 
 <hr style="height:5pt; visibility:hidden;" />
 <swiper-container keyboard="true" scrollbar="true" rewind="true">
@@ -24,9 +23,10 @@ One of my recent projects involved redesigning our website to mirror the mobile 
 <div class="caption">
     One of my recent projects involved redesigning our website to mirror the mobile experience, creating a consistent ecosystem for our products visuals
 </div>
+<br>
 
 <h3>Design Workflow</h3>
-Utilizing Figma, my design process involves:
+Mainly working in Figma, my design process involves:
 <ul>
 <li>Creating grayscale wireframes to emphasize key information and interactive elements.</li>
 <li>Conducting weekly content reviews to gather feedback.</li>
