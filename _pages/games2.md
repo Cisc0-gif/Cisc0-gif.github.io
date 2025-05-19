@@ -30,12 +30,7 @@ horizontal: false
 
 <h2><strong><strong class="highlight-text">// </strong>Convergence</strong></h2>
 <h5>2024 | Unity | <strong class="highlight-text">Art / Sound / Design</strong></h5>
-<!-- <h5>May 2024 | Unity | Team size: 5</h5>
-<p></p>
-<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
--->
 <hr style="height:5pt; visibility:hidden;" />
-
 <script>
 	function hover() {
 	  document.getElementById("cover-one").src = "../assets/img/convergence_assets/hover.gif";
@@ -50,13 +45,7 @@ horizontal: false
 
 <h2><strong><strong class="highlight-text">// </strong>Project: Ether</strong></h2>
 <h5>2024 | Unreal 5 | <strong class="highlight-text">Animation Programmer</strong></h5>
-<!-- <h5>May 2024 | Unity | Team size: 5</h5>
-<p></p>
-<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
--->
-
 <hr style="height:5pt; visibility:hidden;" />
-
 <script>
 	function hover2() {
 	  document.getElementById("cover-two").src = "../assets/img/ether_assets/pe_promo_optimized.gif";
@@ -73,19 +62,13 @@ horizontal: false
 <!-- <a href="{{ site.url }}{{ site.baseurl }}/projects/10_project/"><img width="100%" src="assets/img/convergence_assets/convergencetest_01.png"></a> -->
 
 <h2><strong><strong class="highlight-text">// </strong>Photonics</strong></h2>
-<h5>2022 | Unity | <strong class="highlight-text">Art / UI / Animation</strong></h5>
-
-<!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
-
+<h5>2023 | Unity | <strong class="highlight-text">Art / UI / Animation</strong></h5>
 <hr style="height:5pt; visibility:hidden;" />
-<a href="{{ site.url }}{{ site.baseurl }}/projects/25_project/"><img width="100%" src="../assets/img/project_02/ItchBackground_250519.png"></a>
+<a href="https://fergo310.itch.io/photonics"><img width="100%" src="../assets/img/project_02/ItchBackground_250519.png"></a>
 <br><br><br><br>
 
 <h2><strong><strong class="highlight-text">// </strong>Cel-Shaded Terrain Demo</strong></h2>
 <h5>2022 | Unity | <strong class="highlight-text">Art / 3D Modeling / Technical Art</strong></h5>
-
-<!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
-
 <hr style="height:5pt; visibility:hidden;" />
 <script>
 	function hover4() {
@@ -100,9 +83,6 @@ horizontal: false
 
 <h2><strong><strong class="highlight-text">// </strong>Physics Shader Demo</strong></h2>
 <h5>2022 | Unity | <strong class="highlight-text">3D Modeling / Technical Art</strong></h5>
-
-<!-- <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p> -->
-
 <hr style="height:5pt; visibility:hidden;" />
 <a href="{{ site.url }}{{ site.baseurl }}/projects/11_project/"><img width="100%" src="../assets/img/project_09/physics_demo_screenshot.png"></a>
 <br><br><br><br>
