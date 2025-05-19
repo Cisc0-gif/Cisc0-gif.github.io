@@ -29,7 +29,7 @@ horizontal: false
 
 <div class="inline">
 <a href="https://www.artstation.com/artwork/lG8kBk"><img align="center" width="100%" height="75%" src="../../assets/img/artwork/Talisman_Concept_250515.png"></a>
-<a href="https://www.artstation.com/artwork/lG8kBk"><img align="center" width="100%" height="75%" src="../../assets/img/artwork/Scroll_Concept_250515.png"></a>
+<a href="https://www.artstation.com/artwork/lG8kBk"><img align="center" width="100%" height="85%" src="../../assets/img/artwork/Scroll_Concept_250515.png"></a>
 </div>
 
 <div class="inline">
@@ -48,5 +48,5 @@ horizontal: false
 </div>
 <br><br><br>
 
-<div align="center"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/artwork/';">View UI/UX Portfolio</button></div>
+<div align="center"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/ui/';">View UI/UX Portfolio</button></div>
 <br>

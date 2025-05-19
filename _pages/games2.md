@@ -109,7 +109,7 @@ horizontal: false
 <br><br><br>
 
 
-<div align="center"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/ui/';">View Artwork</button></div>
+<div align="center"><button class="theme-button" onclick="window.location.href='{{ site.url }}{{ site.baseurl }}/artwork/';">View Artwork</button></div>
 <br>
 
 

@@ -4,7 +4,7 @@ permalink: /repositories/
 title: Repos
 description: Small-scale projects, code samples, and scripts
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 {% if site.data.repositories.github_repos %}
