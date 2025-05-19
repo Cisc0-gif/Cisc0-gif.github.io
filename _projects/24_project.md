@@ -26,8 +26,8 @@ Some of my recent design work involved redesigning our website to recreate our m
 
 Working in Figma, my workflow mainly consists of a <strong>grayscale blockout</strong> to highlight key information and interactables followed by our first round of weekly content review. After applying feedback, I proceed with <strong>basic color schemeing, additional effects, and placeholder images</strong> to present a production-level asset at our next round of content review. Finally, I finish applying final comments and we present our work at the end of the week, applying any additional feedback before passing along to the engineering team for implementation.
 See below for some examples of my workflow.
-<br>
 
+<hr style="height:5pt; visibility:hidden;" />
 <swiper-container keyboard="true" scrollbar="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/BranchOut/branchout_workflow_figma.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/BranchOut/branchout_workflow_figma_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
