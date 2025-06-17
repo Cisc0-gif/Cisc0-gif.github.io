@@ -28,6 +28,7 @@ images:
 <hr style="height:5pt; visibility:hidden;"/>
 
 <swiper-container keyboard="true" scrollbar="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Chronomancy_assets/Chronomancy_mainmenu.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Chronomancy_assets/Chronomancy_game_sc_02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Chronomancy_assets/Chronomancy_game_sc_04.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Chronomancy_assets/Chronomancy_game_sc_06.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
