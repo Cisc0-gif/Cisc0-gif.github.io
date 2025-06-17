@@ -10,7 +10,7 @@ horizontal: false
 ---
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 <h2><strong><strong class="highlight-text">// </strong>Chronomancy</strong></h2>
-<h5>2024 | Unreal 5 | <strong class="highlight-text">Art / Design / Level Design</strong></h5>
+<h5>2024 | Unreal 5 | <strong class="highlight-text">Art / UI / Level Design</strong></h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
 <p></p>
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
@@ -22,10 +22,10 @@ horizontal: false
 	  document.getElementById("cover-three").src = "../assets/img/Chronomancy_assets/Chronomancy_Q1_Demo_241215.gif";
 	}
 	function out3() {
-	  document.getElementById("cover-three").src = "../assets/img/Chronomancy_assets/Chronomancy_TitleCard_241215.png";
+	  document.getElementById("cover-three").src = "../assets/img/Chronomancy_assets/Chronomancy_Title_03.png";
 	}
 </script>
-<a href="{{ site.url }}{{ site.baseurl }}/projects/23_project/"><img id="cover-three" width="100%" onmouseover="hover3()" onmouseout="out3()" src="../assets/img/Chronomancy_assets/Chronomancy_TitleCard_241215.png"></a>
+<a href="{{ site.url }}{{ site.baseurl }}/projects/23_project/"><img id="cover-three" width="100%" onmouseover="hover3()" onmouseout="out3()" src="../assets/img/Chronomancy_assets/Chronomancy_Title_03.png"></a>
 <br><br><br><br>
 
 <h2><strong><strong class="highlight-text">// </strong>Convergence</strong></h2>
