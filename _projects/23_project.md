@@ -14,7 +14,7 @@ images:
 	.inline {
 	  display: flex;
 	  align-items: center; /* Aligns items vertically */
-	  gap: 55px; /* Optional: Adds space between elements */
+	  gap: 10px; /* Optional: Adds space between elements */
 	}
 	.dropdown {
 	  font-size: 18px
@@ -41,24 +41,39 @@ As Lead Artist, I directed our team of 8 talented artists, 3D modelers, and anim
 <br>
 <h2>Character Concepts</h2>
 Some early concepts of our enemy creatures, the <strong>Dolavok</strong>.
+<div class="inline">
+<a href="https://www.artstation.com/artwork/1NY9eq"><img align="center" width="100%" height="75%" src="../../assets/img/artwork/Boss_Concept_250515.png"></a>
+<a href="https://www.artstation.com/artwork/gRXaEK"><img align="center" width="100%" height="75%" src="../../assets/img/artwork/Ranged_Concept_02_250515.png"></a>
+<a href="https://www.artstation.com/artwork/gRXaEK"><img align="center" width="100%" height="75%" src="../../assets/img/artwork/Ranged_Concept_250515.png"></a>
+</div>
+<!--
 <br>
 <swiper-container keyboard="true" scrollbar="true" rewind="true">
   <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/artwork/Ranged_Concept_250515.png" class="img-fluid rounded z-depth-1" width="53%" align="center" %}</swiper-slide>
   <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/artwork/Ranged_Concept_02_250515.png" class="img-fluid rounded z-depth-1" width="60%" align="center" %}</swiper-slide>
   <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/artwork/Boss_Concept_250515.png" class="img-fluid rounded z-depth-1" width="80%" align="center" %}</swiper-slide>
 </swiper-container>
+-->
 <br>
 
 <br>
 <h2>Environment Concepts</h2>
 A sample of room and lighting concepts, particularly highlighting the use of verticality and light to guide players.
 <br>
+<div class="inline">
+<img align="center" width="100%" height="75%" src="../../assets/img/artwork/PF_Graybox_Boss4x4_Unlit_241025.png">
+<img align="center" width="100%" height="75%" src="../../assets/img/artwork/PF_Graybox_Boss4x4_Unlit_03_241025.png">
+<img align="center" width="100%" height="75%" src="../../assets/img/artwork/PF_Graybox_Boss4x4_Unlit_07_241025.png">
+<img align="center" width="100%" height="75%" src="../../assets/img/artwork/Environment_Concept_250515.png">
+</div>
+<!--
 <swiper-container keyboard="true" scrollbar="true" rewind="true">
   <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/artwork/PF_Graybox_Boss4x4_Unlit_241025.png" class="img-fluid rounded z-depth-1" width="50%" align="center" %}</swiper-slide>
   <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/artwork/PF_Graybox_Boss4x4_Unlit_03_241025.png" class="img-fluid rounded z-depth-1" width="87%" align="center" %}</swiper-slide>
   <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/artwork/PF_Graybox_Boss4x4_Unlit_07_241025.png" class="img-fluid rounded z-depth-1" width="87%" align="center" %}</swiper-slide>
   <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/artwork/Environment_Concept_250515.png" class="img-fluid rounded z-depth-1" width="65%" align="center" %}</swiper-slide>
 </swiper-container>
+-->
 <br>
 
 <details>
