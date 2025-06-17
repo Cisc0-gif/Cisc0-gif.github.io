@@ -37,24 +37,15 @@ images:
 </swiper-container>
 <br>
 
-As Lead Artist, I directed our team of 8 talented artists, 3D modelers, and animators through pre-production to Alpha release, working closely with narrative, gameplay, and programming teams to shape our project's visual identity. Laying the groundwork for our team of 17, I created environment and enemy concept art early on, along with compiling a library of references for the art team to utilize, and worked closely with narrative and gameplay to craft a rich world for our player's explore. Spending our first 10-week sprint iterating over designs, grayboxing environments, and optimizing our procedural map with Mixed lighting, by the time we hit our second 10-week sprint we were in full development, which is where I prioritized supporting my team as they tackled Animation, Sound Design, and UI using the resources I curated for them—leaving me time to iterate over our work and begin the transition into our polish-phase by the time our third 10-week sprint came around. By the end of our 30-week development cycle, we had a procedurally-generated map at runtime, full progression system, tutorial onboarding, 4 unique enemies, 10 different spells to choose from, and an equippable loot system with over 20 items to collect.
-
+As Lead Artist on this 30-week Senior Capstone project, I guided a team of 8 artists, 3D modelers, and animators from pre-production to Alpha release, collaborating closely with narrative, gameplay, and programming teams to define the project’s visual identity. From day one, I set out to establish a visual foundation for our team by designing enemy and environment concept art, reference libraries, and modular designs for our procedural map. Over the first sprint, I focused on grayboxing environments and optimizing lighting; in the second, I prioritized team support—curating resources for animation, UI, and sound—while continuing to iterate on visual polish. By the final sprint, we had a fully playable experience featuring tutorial onboarding, four unique enemies, 10 spells, and over 20 equippable items.
 <br>
 <h2>Character Concepts</h2>
 Some early concepts of our enemy creatures, the <strong>Dolavok</strong>.
 <div class="inline">
-<a href="https://www.artstation.com/artwork/1NY9eq"><img align="center" width="100%" height="75%" src="../../assets/img/artwork/Boss_Concept_250515.png"></a>
-<a href="https://www.artstation.com/artwork/gRXaEK"><img align="center" width="100%" height="75%" src="../../assets/img/artwork/Ranged_Concept_02_250515.png"></a>
-<a href="https://www.artstation.com/artwork/gRXaEK"><img align="center" width="100%" height="75%" src="../../assets/img/artwork/Ranged_Concept_250515.png"></a>
+<a href="https://www.artstation.com/artwork/1NY9eq"><img align="center" width="50%" height="75%" src="../../assets/img/artwork/Boss_Concept_250515.png"></a>
+<a href="https://www.artstation.com/artwork/gRXaEK"><img align="center" width="50%" height="75%" src="../../assets/img/artwork/Ranged_Concept_02_250515.png"></a>
+<a href="https://www.artstation.com/artwork/gRXaEK"><img align="center" width="50%" height="75%" src="../../assets/img/artwork/Ranged_Concept_250515.png"></a>
 </div>
-<!--
-<br>
-<swiper-container keyboard="true" scrollbar="true" rewind="true">
-  <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/artwork/Ranged_Concept_250515.png" class="img-fluid rounded z-depth-1" width="53%" align="center" %}</swiper-slide>
-  <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/artwork/Ranged_Concept_02_250515.png" class="img-fluid rounded z-depth-1" width="60%" align="center" %}</swiper-slide>
-  <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/artwork/Boss_Concept_250515.png" class="img-fluid rounded z-depth-1" width="80%" align="center" %}</swiper-slide>
-</swiper-container>
--->
 <br>
 
 <br>
@@ -67,14 +58,6 @@ A sample of room and lighting concepts, particularly highlighting the use of ver
 <img align="center" width="100%" height="75%" src="../../assets/img/artwork/PF_Graybox_Boss4x4_Unlit_07_241025.png">
 <img align="center" width="100%" height="75%" src="../../assets/img/artwork/Environment_Concept_250515.png">
 </div>
-<!--
-<swiper-container keyboard="true" scrollbar="true" rewind="true">
-  <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/artwork/PF_Graybox_Boss4x4_Unlit_241025.png" class="img-fluid rounded z-depth-1" width="50%" align="center" %}</swiper-slide>
-  <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/artwork/PF_Graybox_Boss4x4_Unlit_03_241025.png" class="img-fluid rounded z-depth-1" width="87%" align="center" %}</swiper-slide>
-  <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/artwork/PF_Graybox_Boss4x4_Unlit_07_241025.png" class="img-fluid rounded z-depth-1" width="87%" align="center" %}</swiper-slide>
-  <swiper-slide align="center">{% include figure.liquid loading="eager" path="assets/img/artwork/Environment_Concept_250515.png" class="img-fluid rounded z-depth-1" width="65%" align="center" %}</swiper-slide>
-</swiper-container>
--->
 <br>
 
 <details>
