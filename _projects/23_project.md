@@ -42,9 +42,9 @@ As Lead Artist on this 30-week Senior Capstone project, I guided a team of 8 art
 <h2>Character Concepts</h2>
 Some early concepts of our enemy creatures, the <strong>Dolavok</strong>.
 <div class="inline">
-<a href="https://www.artstation.com/artwork/1NY9eq"><img align="center" width="50%" height="75%" src="../../assets/img/artwork/Boss_Concept_250515.png"></a>
-<a href="https://www.artstation.com/artwork/gRXaEK"><img align="center" width="50%" height="75%" src="../../assets/img/artwork/Ranged_Concept_02_250515.png"></a>
-<a href="https://www.artstation.com/artwork/gRXaEK"><img align="center" width="50%" height="75%" src="../../assets/img/artwork/Ranged_Concept_250515.png"></a>
+<a href="https://www.artstation.com/artwork/1NY9eq"><img align="center" width="100%" height="75%" src="../../assets/img/artwork/Boss_Concept_250515.png"></a>
+<a href="https://www.artstation.com/artwork/gRXaEK"><img align="center" width="100%" height="75%" src="../../assets/img/artwork/Ranged_Concept_02_250515.png"></a>
+<a href="https://www.artstation.com/artwork/gRXaEK"><img align="center" width="100%" height="75%" src="../../assets/img/artwork/Ranged_Concept_250515.png"></a>
 </div>
 <br>
 
@@ -53,10 +53,12 @@ Some early concepts of our enemy creatures, the <strong>Dolavok</strong>.
 A sample of room and lighting concepts, particularly highlighting the use of verticality and light to guide players.
 <br>
 <div class="inline">
-<img align="center" width="100%" height="75%" src="../../assets/img/artwork/PF_Graybox_Boss4x4_Unlit_241025.png">
-<img align="center" width="100%" height="75%" src="../../assets/img/artwork/PF_Graybox_Boss4x4_Unlit_03_241025.png">
-<img align="center" width="100%" height="75%" src="../../assets/img/artwork/PF_Graybox_Boss4x4_Unlit_07_241025.png">
-<img align="center" width="100%" height="75%" src="../../assets/img/artwork/Environment_Concept_250515.png">
+<a><img align="center" width="100%" height="75%" src="../../assets/img/artwork/PF_Graybox_Boss4x4_Unlit_241025.png"></a>
+<a><img align="center" width="100%" height="75%" src="../../assets/img/artwork/PF_Graybox_Boss4x4_Unlit_03_241025.png"></a>
+</div>
+<div class="inline">
+<a><img align="center" width="100%" height="75%" src="../../assets/img/artwork/PF_Graybox_Boss4x4_Unlit_07_241025.png"></a>
+<a><img align="center" width="100%" height="75%" src="../../assets/img/artwork/Environment_Concept_250515.png"></a>
 </div>
 <br>
 
