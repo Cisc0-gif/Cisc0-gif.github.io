@@ -37,8 +37,8 @@ images:
 </swiper-container>
 <br>
 
-As Lead Artist on this 30-week Senior Capstone project, I guided a team of 8 artists, 3D modelers, and animators from pre-production to Alpha release, collaborating closely with narrative, gameplay, and programming teams to define the project’s visual identity. From day one, I set out to establish a visual foundation for our team by designing enemy and environment concept art, reference libraries, and modular designs for our procedural map. Over the first sprint, I focused on grayboxing environments and optimizing lighting; in the second, I prioritized team support—curating resources for animation, UI, and sound—while continuing to iterate on visual polish. By the final sprint, we had a fully playable experience featuring tutorial onboarding, four unique enemies, 10 spells, and over 20 equippable items.
-<br>
+As Lead Artist on this 30-week Senior Capstone project, I guided a team of 8 artists, 3D modelers, and animators from pre-production to Alpha release, collaborating closely with narrative, gameplay, and programming teams to define the project’s visual identity. From day one, I set out to establish a visual foundation for our team by designing enemy and environment concept art, reference libraries, and modular designs for our procedural map. Over the first sprint, I focused on grayboxing environments and optimizing lighting; in the second, I prioritized team support—curating resources for animation, UI, and sound—while continuing to iterate on visual polish. By the final sprint, our game featured cohesive lighting across procedurally-generated environments, 4 distinct enemies, 10 unique spell VFX, and a consistent art direction across environments, characters, and UI.
+<br><br>
 <h2>Character Concepts</h2>
 Some early concepts of our enemy creatures, the <strong>Dolavok</strong>.
 <div class="inline">
@@ -46,7 +46,6 @@ Some early concepts of our enemy creatures, the <strong>Dolavok</strong>.
 <a href="https://www.artstation.com/artwork/gRXaEK"><img align="center" width="100%" height="75%" src="../../assets/img/artwork/Ranged_Concept_02_250515.png"></a>
 <a href="https://www.artstation.com/artwork/gRXaEK"><img align="center" width="100%" height="75%" src="../../assets/img/artwork/Ranged_Concept_250515.png"></a>
 </div>
-<br>
 
 <br>
 <h2>Environment Concepts</h2>
