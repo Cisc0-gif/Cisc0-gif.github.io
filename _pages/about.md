@@ -12,7 +12,7 @@ css: >
 
 profile:
   align: right
-  image: cover_photo.png
+  image: artwork/cover_photo.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
