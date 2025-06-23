@@ -13,7 +13,7 @@ css: >
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p></p>
     <p></p>
