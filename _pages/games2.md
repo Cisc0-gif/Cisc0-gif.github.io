@@ -19,14 +19,14 @@ horizontal: false
 <hr style="height:5pt; visibility:hidden;" />
 
 <script>
-	function hover4() {
-	  document.getElementById("cover-four").src = "assets/img/Scraprooms/portfolio_cover.png"; <!-- GIF HERE -->
+	function hover5() {
+	  document.getElementById("cover-five").src = "assets/img/Scraprooms/portfolio_cover.png"; <!-- GIF HERE -->
 	}
-	function out4() {
-	  document.getElementById("cover-four").src = "assets/img/Scraprooms/portfolio_cover.png";
+	function out5() {
+	  document.getElementById("cover-five").src = "assets/img/Scraprooms/portfolio_cover.png";
 	}
 </script>
-<a href="https://thepigguy.itch.io/scraprooms"><img id="cover-four" width="100%" onmouseover="hover4()" onmouseout="out4()" src="assets/img/Scraprooms/portfolio_cover.png"></a>
+<a href="https://thepigguy.itch.io/scraprooms"><img id="cover-five" width="100%" onmouseover="hover5()" onmouseout="out5()" src="assets/img/Scraprooms/portfolio_cover.png"></a>
 <!--<a href="{{ site.url }}{{ site.baseurl }}/projects/27_project/"><img id="cover-three" width="100%" onmouseover="hover3()" onmouseout="out3()" src="assets/img/Scraprooms/portfolio_cover.png"></a>-->
 <br><br><br><br>
 
