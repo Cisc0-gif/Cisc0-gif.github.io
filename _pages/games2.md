@@ -20,7 +20,7 @@ horizontal: false
 
 <script>
 	function hover4() {
-	  document.getElementById("cover-four").src = "assets/img/Scraprooms/Chronomancy_Q1_Demo_241215.gif";
+	  document.getElementById("cover-four").src = "assets/img/Scraprooms/portfolio_cover.png"; <!-- GIF HERE -->
 	}
 	function out4() {
 	  document.getElementById("cover-four").src = "assets/img/Scraprooms/portfolio_cover.png";
