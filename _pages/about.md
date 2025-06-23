@@ -80,10 +80,28 @@ social: true # includes social icons at the bottom of the page
 <br><br>
 <!-- <h1>Games</h1> <hr> -->
 
+<h2><strong><strong class="highlight-text">// </strong>The Scraprooms</strong></h2>
+<h5>2025 | Unity 6 URP | <strong class="highlight-text">Environment / Lighting / UI</strong></h5>
+<!-- <h5>May 2024 | Unity | Team size: 5</h5>
+<p></p>
+<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
+-->
+<hr style="height:5pt; visibility:hidden;" />
 
+<script>
+	function hover4() {
+	  document.getElementById("cover-four").src = "assets/img/Scraprooms/Chronomancy_Q1_Demo_241215.gif";
+	}
+	function out4() {
+	  document.getElementById("cover-four").src = "assets/img/Scraprooms/portfolio_cover.png";
+	}
+</script>
+<a href="https://thepigguy.itch.io/scraprooms"><img id="cover-four" width="100%" onmouseover="hover4()" onmouseout="out4()" src="assets/img/Scraprooms/portfolio_cover.png"></a>
+<!--<a href="{{ site.url }}{{ site.baseurl }}/projects/27_project/"><img id="cover-three" width="100%" onmouseover="hover3()" onmouseout="out3()" src="assets/img/Scraprooms/portfolio_cover.png"></a>-->
+<br><br><br><br>
 
 <h2><strong><strong class="highlight-text">// </strong>Chronomancy</strong></h2>
-<h5>2024 | Unreal 5 | <strong class="highlight-text">Art / Environment / Lighting</strong></h5>
+<h5>2024 | Unreal 5.4 | <strong class="highlight-text">Art / Environment / Lighting</strong></h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
 <p></p>
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
@@ -102,7 +120,7 @@ social: true # includes social icons at the bottom of the page
 <br><br><br><br>
 
 <h2><strong><strong class="highlight-text">// </strong>Convergence</strong></h2>
-<h5>2024 | Unity | <strong class="highlight-text">Art / Sound / Design</strong></h5>
+<h5>2024 | Unity 2022 URP | <strong class="highlight-text">Art / Sound / Design</strong></h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
 <p></p>
 <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
@@ -119,27 +137,6 @@ social: true # includes social icons at the bottom of the page
 </script>
 <a href="{{ site.url }}{{ site.baseurl }}/projects/13_project/"><img id="cover-one" width="100%" onmouseover="hover()" onmouseout="out()" src="assets/img/convergence_assets/Image Sequence_013_0000.png"></a>
 <br><br><br><br>
-
-
-<h2><strong><strong class="highlight-text">// </strong>Project: Ether</strong></h2>
-<h5>2024 | Unreal 5 | <strong class="highlight-text">Animation Programming</strong></h5>
-<!-- <h5>May 2024 | Unity | Team size: 5</h5>
-<p></p>
-<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
--->
-
-<hr style="height:5pt; visibility:hidden;" />
-
-<script>
-	function hover2() {
-	  document.getElementById("cover-two").src = "assets/img/ether_assets/pe_promo_optimized.gif";
-	}
-	function out2() {
-	  document.getElementById("cover-two").src = "assets/img/ether_assets/pe_titlecard.png";
-	}
-</script>
-<a href="{{ site.url }}{{ site.baseurl }}/projects/22_project/"><img id="cover-two" width="100%" onmouseover="hover2()" onmouseout="out2()" src="assets/img/ether_assets/pe_titlecard.png"></a>
-<br><br><br>
 
 
 <!-- <div align="center"><iframe width="100%" height="350" src="https://www.youtube.com/embed/NQFwHyNttlo?si=MTZ5PVpDfmt3c4Lq" title="YouTube video player" frameborder="0" align="center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div> -->

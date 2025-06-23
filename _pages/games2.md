@@ -9,6 +9,27 @@ display_categories:
 horizontal: false
 ---
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+<h2><strong><strong class="highlight-text">// </strong>The Scraprooms</strong></h2>
+<h5>2025 | Unity 6 URP | <strong class="highlight-text">Environment / Lighting / UI</strong></h5>
+<!-- <h5>May 2024 | Unity | Team size: 5</h5>
+<p></p>
+<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. </p>
+-->
+<hr style="height:5pt; visibility:hidden;" />
+
+<script>
+	function hover4() {
+	  document.getElementById("cover-four").src = "assets/img/Scraprooms/Chronomancy_Q1_Demo_241215.gif";
+	}
+	function out4() {
+	  document.getElementById("cover-four").src = "assets/img/Scraprooms/portfolio_cover.png";
+	}
+</script>
+<a href="https://thepigguy.itch.io/scraprooms"><img id="cover-four" width="100%" onmouseover="hover4()" onmouseout="out4()" src="assets/img/Scraprooms/portfolio_cover.png"></a>
+<!--<a href="{{ site.url }}{{ site.baseurl }}/projects/27_project/"><img id="cover-three" width="100%" onmouseover="hover3()" onmouseout="out3()" src="assets/img/Scraprooms/portfolio_cover.png"></a>-->
+<br><br><br><br>
+
 <h2><strong><strong class="highlight-text">// </strong>Chronomancy</strong></h2>
 <h5>2024 | Unreal 5 | <strong class="highlight-text">Art / Environment / Lighting</strong></h5>
 <!-- <h5>May 2024 | Unity | Team size: 5</h5>
