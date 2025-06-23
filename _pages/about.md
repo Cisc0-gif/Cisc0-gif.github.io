@@ -12,7 +12,7 @@ css: >
 
 profile:
   align: right
-  image: prof_pic.png
+  image: 
   image_circular: false
   more_info: >
     <p></p>
