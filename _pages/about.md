@@ -28,6 +28,9 @@ social: true # includes social icons at the bottom of the page
 <br>
 <br>
 <br>
+<script type="text/javascript">
+    window.location.href = "https://www.ferencgozony.com";
+</script>
 <h1><strong>Ferenc Gozony</strong></h1> <!-- <strong class="highlight-text">// </strong> -->
 <h5 class="highlight-text">Environment Artist | Student @ UCI</h5>
 <div class="desktop-only">
